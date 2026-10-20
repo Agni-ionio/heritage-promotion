@@ -16,11 +16,11 @@
 title: Εναλλακτικός Τουρισμός - Λίμνες & Ποτάμια της Ελλάδας
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Ο ιστοχώρος αυτός αναπτύχτηκε από τους Αγνή Εξάρχου & Αλέξανδρο Μπουντούρη,
-  στα πλαίσια εργασίας του μαθήματος "Εργαλεία Προβολής Τουριστικού και Πολιτιστικού Προϊόντος"
+  Ο ιστοχώρος αυτός αναπτύχτηκε από τους Αλέξανδρο Μπουντούρη & Αγνή Εξάρχου,
+  στα πλαίσια εργασίας του μαθήματος "Εργαλεία Προβολής Τουριστικού & Πολιτιστικού Προϊόντος"
   του ΠΜΣ "Ψηφιακές Εφαρμογές & Καινοτομία" του Ιονίου Πανεπιστημίου.
 baseurl: "heritage-promotion" # the subpath of your site, e.g. /blog
-url: "" # https://github.com/Agni-ionio
+url: "https://github.com/Agni-ionio"
 # twitter_username: jekyllrb
 https://github.com/Agni-ionio
 github_username:  Agni-ionio
