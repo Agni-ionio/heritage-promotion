@@ -26,6 +26,12 @@ github_username:  Agni-ionio
 # Build settings
 markdown: kramdown
 theme: minima
+header_pages:
+  - pois.md
+  - activities.md
+  - visitor-guide.md
+  - about.md
+  - team.md
 plugins:
   - jekyll-feed
 
