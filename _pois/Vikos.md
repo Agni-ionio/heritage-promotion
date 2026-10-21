@@ -1,6 +1,7 @@
 ---
 layout: poi
 title: "Φαράγγι του Βίκου"
+category: mountain
 wikidatum: Q15061872
 load_leaflet: 1
 ---
