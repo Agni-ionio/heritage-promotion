@@ -1,6 +1,7 @@
 ---
 layout: poi
 title: Ποταμός Βοϊδομάτης
+category: river
 wikidatum: Q2336884
 load_leaflet: 1
 ---
