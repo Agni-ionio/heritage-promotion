@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Η Ομάδα Μας
+title: 👥 Η Ομάδα Μας
 permalink: /team/
 ---
 
