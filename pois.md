@@ -33,8 +33,27 @@ permalink: /pois/
 }
 
 .category{
-  margin-top:40px;
+  margin-top:50px;
 }
+
+.category h2{
+  margin-bottom:10px;
+}
+
+.category p{
+  color:#555;
+  margin-bottom:20px;
+  line-height:1.6;
+}
+
+.intro{
+  font-size:1.1rem;
+  line-height:1.8;
+  margin-bottom:40px;
+  text-align:left;
+  color:#444;
+}
+  
 </style>
 
 <div class="intro">
@@ -43,7 +62,6 @@ permalink: /pois/
   Κάθε προορισμός προσφέρει μοναδικές εικόνες, δραστηριότητες
   και ευκαιρίες εξερεύνησης της Ελληνικής φύσης.
 </div>
-
 
 <div class="category">
 <h2>🌿 Λίμνες & Γαλήνια Φύση</h2>
