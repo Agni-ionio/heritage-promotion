@@ -1,3 +1,4 @@
+---
 layout: page
 title: "📖 Οδηγός Επισκέπτη"
 permalink: /visitor-guide/
@@ -8,3 +9,109 @@ permalink: /visitor-guide/
 Χρήσιμες πληροφορίες για να οργανώσετε την επίσκεψή σας στους φυσικούς προορισμούς του Beyond the Blue.
 
 ## 📅 Πότε μπορείτε να Επισκεφθείτε
+<br>
+<table style="width:100%; border-collapse:collapse;">
+  <tr>
+    <th style="text-align:left; padding:10px;">Προορισμός</th>
+    <th style="text-align:left; padding:10px;">Ιδανική Περίοδος</th>
+    <th style="text-align:left; padding:10px;">Σχόλια</th>
+  </tr>
+
+  <tr>
+    <td style="padding:10px;">🌊 Ποταμός Αχέροντας</td>
+    <td style="padding:10px;">Άνοιξη - Καλοκαίρι</td>
+    <td style="padding:10px;">Ιδανική εποχή για rafting και ποτάμιες διαδρομές.</td>
+  </tr>
+
+  <tr>
+    <td style="padding:10px;">🏞️ Λίμνη Δόξα</td>
+    <td style="padding:10px;">Άνοιξη - Φθινόπωρο</td>
+    <td style="padding:10px;">Κατάλληλες συνθήκες για πεζοπορία και χαλάρωση.</td>
+  </tr>
+
+  <tr>
+    <td style="padding:10px;">⛰️ Δρακόλιμνη Τύμφης</td>
+    <td style="padding:10px;">Ιούνιος - Σεπτέμβριος</td>
+    <td style="padding:10px;">Οι ορεινές διαδρομές είναι πιο προσβάσιμες.</td>
+  </tr>
+
+  <tr>
+    <td style="padding:10px;">🦆 Λίμνη Κερκίνη</td>
+    <td style="padding:10px;">Φθινόπωρο - Άνοιξη</td>
+    <td style="padding:10px;">Ιδανική περίοδος για παρατήρηση πουλιών και άγριας ζωής.</td>
+  </tr>
+
+  <tr>
+    <td style="padding:10px;">🌧️ Φαράγγι Πάντα Βρέχει</td>
+    <td style="padding:10px;">Άνοιξη - Καλοκαίρι</td>
+    <td style="padding:10px;">Ευχάριστες θερμοκρασίες για εξερεύνηση και κολύμβηση.</td>
+  </tr>
+
+  <tr>
+    <td style="padding:10px;">🏞️ Λίμνη Πλαστήρα</td>
+    <td style="padding:10px;">Όλο τον χρόνο</td>
+    <td style="padding:10px;">Δραστηριότητες και φυσική ομορφιά σε κάθε εποχή.</td>
+  </tr>
+
+  <tr>
+    <td style="padding:10px;">🌿 Πρέσπες</td>
+    <td style="padding:10px;">Άνοιξη - Φθινόπωρο</td>
+    <td style="padding:10px;">Ιδανικές συνθήκες για εξερεύνηση και φωτογραφία φύσης.</td>
+  </tr>
+
+  <tr>
+    <td style="padding:10px;">🌲 Βάλια Κάλντα</td>
+    <td style="padding:10px;">Άνοιξη - Φθινόπωρο</td>
+    <td style="padding:10px;">Κατάλληλη περίοδος για πεζοπορία και επαφή με τη φύση.</td>
+  </tr>
+
+  <tr>
+    <td style="padding:10px;">🏔️ Φαράγγι Βίκου</td>
+    <td style="padding:10px;">Άνοιξη - Αρχές Φθινοπώρου</td>
+    <td style="padding:10px;">Ιδανικές συνθήκες για τη διάσχιση του φαραγγιού.</td>
+  </tr>
+
+  <tr>
+    <td style="padding:10px;">💧 Ποταμός Βοϊδομάτης</td>
+    <td style="padding:10px;">Άνοιξη - Καλοκαίρι</td>
+    <td style="padding:10px;">Κρυστάλλινα νερά και υπαίθριες δραστηριότητες.</td>
+  </tr>
+</table>
+
+<hr style="margin:40px 0;">
+
+<h2>ℹ️ Συχνές Ερωτήσεις (FAQ)</h2>
+
+<details>
+  <summary><strong>Είναι ασφαλής η κολύμβηση;</strong></summary>
+  <p>
+    Η ασφάλεια εξαρτάται από τις καιρικές συνθήκες και τα χαρακτηριστικά κάθε περιοχής.
+    Συνιστάται πάντα προσοχή και τήρηση των τοπικών οδηγιών.
+  </p>
+</details>
+
+<details>
+  <summary><strong>Χρειάζεται ειδικός εξοπλισμός;</strong></summary>
+  <p>
+    Για τις περισσότερες επισκέψεις αρκούν άνετα παπούτσια, νερό και κατάλληλος ρουχισμός.
+    Σε ορισμένες διαδρομές πεζοπορίας συνιστάται ορειβατικός εξοπλισμός.
+  </p>
+</details>
+
+<details>
+  <summary><strong>Υπάρχει πρόσβαση με αυτοκίνητο;</strong></summary>
+  <p>
+    Οι περισσότεροι προορισμοί διαθέτουν οδική πρόσβαση, ενώ σε αρκετές περιπτώσεις
+    απαιτείται μικρή πεζοπορία για την προσέγγιση των κύριων σημείων ενδιαφέροντος.
+  </p>
+</details>
+
+<details>
+  <summary><strong>Επιτρέπεται η κατασκήνωση;</strong></summary>
+  <p>
+    Οι κανονισμοί διαφέρουν ανά περιοχή. Πριν από οποιαδήποτε διανυκτέρευση στη φύση,
+    συνιστάται ενημέρωση από τους αρμόδιους φορείς.
+  </p>
+</details>
+
+
