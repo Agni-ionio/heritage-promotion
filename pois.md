@@ -1,6 +1,6 @@
 ---
 layout: page
-title: POIs List
+title: 🗺️ Προορισμοί
 permalink: /pois/
 ---
 
@@ -38,7 +38,7 @@ permalink: /pois/
 </style>
 
 <div class="category">
-<h2>🌿 Lakes & Serenity</h2>
+<h2>🌿 Λίμνες & Γαλήνια Φύση</h2>
 
 <div class="poi-grid">
 {% for p in site.pois %}
@@ -54,7 +54,7 @@ permalink: /pois/
 </div>
 
 <div class="category">
-<h2>🌊 Rivers & Adventure</h2>
+<h2>🌊 Ποτάμια & Δραστηριότητες</h2>
 
 <div class="poi-grid">
 {% for p in site.pois %}
@@ -70,7 +70,7 @@ permalink: /pois/
 </div>
 
 <div class="category">
-<h2>🏔️ Mountain Escapes</h2>
+<h2>🏔️ Ορεινές Αποδράσεις & Περιπέτεια</h2>
 
 <div class="poi-grid">
 {% for p in site.pois %}
