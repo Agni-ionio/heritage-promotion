@@ -31,7 +31,7 @@ load_leaflet: 1
     
     <div style="text-align: left; margin-top: 25px;">
       <span style="background: rgba(255, 255, 255, 0.25); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); color: #ffffff; font-size: 0.65rem; font-weight: 600; padding: 4px 10px; border-radius: 12px; text-transform: uppercase; letter-spacing: 1px; border: 1px solid rgba(255,255,255,0.3);">
-        4K Drone View
+        4K Aerial View
       </span>
     </div>
 
