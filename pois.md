@@ -33,27 +33,8 @@ permalink: /pois/
 }
 
 .category{
-  margin-top:50px;
+  margin-top:40px;
 }
-
-.category h2{
-  margin-bottom:10px;
-}
-
-.category p{
-  color:#555;
-  margin-bottom:20px;
-  line-height:1.6;
-}
-
-.intro{
-  font-size:1.1rem;
-  line-height:1.8;
-  margin-bottom:40px;
-  text-align:left;
-  color:#444;
-}
-  
 </style>
 
 <div class="intro">
