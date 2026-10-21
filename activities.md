@@ -1,4 +1,4 @@
-<img width="4032" height="1761" alt="image" src="https://github.com/user-attachments/assets/e551438d-2a24-4be3-b674-09bc9c6fad72" />---
+---
 layout: page
 title: Δραστηριότητες
 permalink: /activities/
