@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🗺️ Προορισμοί
+title: "🗺️ Προορισμοί"
 permalink: /pois/
 ---
 
@@ -18,7 +18,7 @@ permalink: /pois/
   padding:20px;
   background:white;
   box-shadow:0 2px 8px rgba(0,0,0,0.1);
-  transition:0.3s;
+  transition:all 0.3s ease;
 }
 
 .poi-card:hover{
@@ -30,57 +30,98 @@ permalink: /pois/
   text-decoration:none;
   font-weight:bold;
   color:#2c3e50;
+  font-size:1.05rem;
+}
+
+.poi-card a:hover{
+  color:#0077b6;
 }
 
 .category{
-  margin-top:40px;
+  margin-top:50px;
+}
+
+.category h2{
+  margin-bottom:10px;
+}
+
+.category p{
+  color:#555;
+  margin-bottom:20px;
+  line-height:1.6;
+}
+
+.intro{
+  font-size:1.1rem;
+  line-height:1.8;
+  margin-bottom:40px;
+  text-align:center;
+  color:#444;
 }
 </style>
 
-<div class="category">
-<h2>🌿 Λίμνες & Γαλήνια Φύση</h2>
-
-<div class="poi-grid">
-{% for p in site.pois %}
-{% if p.category == "lake" %}
-<div class="poi-card">
-<a href="{{ p.url | relative_url }}">
-{{ p.title }}
-</a>
-</div>
-{% endif %}
-{% endfor %}
-</div>
+<div class="intro">
+  Ανακαλύψτε επιλεγμένους φυσικούς προορισμούς της Ελλάδας
+  οργανωμένους ανά κατηγορία τοπίου και εμπειρίας.
+  Κάθε προορισμός προσφέρει μοναδικές εικόνες, δραστηριότητες 
+  και ευκαιρίες εξερεύνησης της Ελληνικής φύσης.
 </div>
 
 <div class="category">
-<h2>🌊 Ποτάμια & Δραστηριότητες</h2>
+  <h2>🌿 Λίμνες &amp; Γαλήνια Φύση</h2>
+  <p>
+    Ήρεμα τοπία, φυσική ομορφιά και εμπειρίες χαλάρωσης δίπλα στο νερό.
+  </p>
 
-<div class="poi-grid">
-{% for p in site.pois %}
-{% if p.category == "river" %}
-<div class="poi-card">
-<a href="{{ p.url | relative_url }}">
-{{ p.title }}
-</a>
-</div>
-{% endif %}
-{% endfor %}
-</div>
+  <div class="poi-grid">
+    {% for p in site.pois %}
+      {% if p.category == "lake" %}
+        <div class="poi-card">
+          <a href="{{ p.url | relative_url }}">
+            {{ p.title }}
+          </a>
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
 </div>
 
 <div class="category">
-<h2>🏔️ Ορεινές Αποδράσεις & Περιπέτεια</h2>
+  <h2>🌊 Ποτάμια &amp; Δραστηριότητες</h2>
+  <p>
+    Κρυστάλλινα νερά, φαράγγια και μοναδικές εμπειρίες περιπέτειας
+    στην καρδιά της φύσης.
+  </p>
 
-<div class="poi-grid">
-{% for p in site.pois %}
-{% if p.category == "mountain" %}
-<div class="poi-card">
-<a href="{{ p.url | relative_url }}">
-{{ p.title }}
-</a>
+  <div class="poi-grid">
+    {% for p in site.pois %}
+      {% if p.category == "river" %}
+        <div class="poi-card">
+          <a href="{{ p.url | relative_url }}">
+            {{ p.title }}
+          </a>
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
 </div>
-{% endif %}
-{% endfor %}
-</div>
-</div>
+
+<div class="category">
+  <h2>🏔️ Ορεινές Αποδράσεις &amp; Περιπέτεια</h2>
+  <p>
+    Αλπικά τοπία, εντυπωσιακά φαράγγια και πεζοπορικές διαδρομές
+    για όσους αγαπούν την εξερεύνηση.
+  </p>
+
+  <div class="poi-grid">
+    {% for p in site.pois %}
+      {% if p.category == "mountain" %}
+        <div class="poi-card">
+          <a href="{{ p.url | relative_url }}">
+            {{ p.title }}
+          </a>
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+</div></div>
