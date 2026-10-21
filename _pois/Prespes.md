@@ -3,6 +3,7 @@ layout: poi
 title: "Λίμνες Πρέσπες"
 category: lake
 wikidatum: Q204392
+card_description: "Σύμπλεγμα λιμνών με σπάνια βιοποικιλότητα και σημαντικά βυζαντινά μνημεία."
 load_leaflet: 1
 ---
 
