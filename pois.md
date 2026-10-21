@@ -4,7 +4,9 @@ title: POIs List
 permalink: /pois/
 ---
 
-<h2>🌿 Lakes & Serenity</h2>
+<h2 class="category-title lakes">
+  🌿 Lakes & Serenity
+</h2>
 <ul>
 {% for p in site.pois %}
   {% if p.category == "lake" %}
@@ -15,7 +17,9 @@ permalink: /pois/
 {% endfor %}
 </ul>
 
-<h2>🌊 Rivers & Adventure</h2>
+<h2 class="category-title rivers">
+  🌊 Rivers & Adventure
+</h2>
 <ul>
 {% for p in site.pois %}
   {% if p.category == "river" %}
@@ -26,7 +30,9 @@ permalink: /pois/
 {% endfor %}
 </ul>
 
-<h2>🏔️ Mountain Escapes</h2>
+<h2 class="category-title mountains">
+  🏔️ Mountain Escapes
+</h2>
 <ul>
 {% for p in site.pois %}
   {% if p.category == "mountain" %}
