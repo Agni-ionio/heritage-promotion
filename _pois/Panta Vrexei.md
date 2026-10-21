@@ -2,7 +2,7 @@
 layout: poi
 title: "Φαράγγι Πάντα Βρέχει"
 category: river
-wikidatum: Q12883204
+wikidatum: Q124676323
 card_description: "Εντυπωσιακό φαράγγι της Ευρυτανίας όπου οι καταρράκτες δημιουργούν την αίσθηση συνεχούς βροχής."
 load_leaflet: 1
 ---
