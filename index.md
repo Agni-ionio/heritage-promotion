@@ -12,9 +12,10 @@ layout: home
 
   <div style="height:140px;"></div>
 
-  <p style="color:white; font-size:1.3rem;">
-    Αυθεντικές Διαδρομές στην Ελληνική Φύση
-  </p>
+  <p style="color:white; font-size:1.5rem; font-weight:600;">
+  Πέρα από τη Θάλασσα,<br>
+  Υπάρχει μια Άλλη Ελλάδα
+</p>
 
   <a href="/heritage-promotion/pois/"
      style="display:inline-block; margin-top:20px; background:#2d6a4f; color:white; padding:12px 24px; border-radius:30px; text-decoration:none; font-weight:bold;">
