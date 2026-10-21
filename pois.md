@@ -18,7 +18,7 @@ permalink: /pois/
   padding:20px;
   background:white;
   box-shadow:0 2px 8px rgba(0,0,0,0.1);
-  transition:all 0.3s ease;
+  transition:0.3s;
 }
 
 .poi-card:hover{
@@ -30,11 +30,6 @@ permalink: /pois/
   text-decoration:none;
   font-weight:bold;
   color:#2c3e50;
-  font-size:1.05rem;
-}
-
-.poi-card a:hover{
-  color:#0077b6;
 }
 
 .category{
@@ -55,9 +50,10 @@ permalink: /pois/
   font-size:1.1rem;
   line-height:1.8;
   margin-bottom:40px;
-  text-align:center;
+  text-align:left;
   color:#444;
 }
+  
 </style>
 
 <div class="intro">
@@ -67,59 +63,55 @@ permalink: /pois/
   και ευκαιρίες εξερεύνησης της Ελληνικής φύσης.
 </div>
 
-<div class="category">
-  <h2>🌿 Λίμνες &amp; Γαλήνια Φύση</h2>
-  <p>Ήρεμα τοπία, φυσική ομορφιά και εμπειρίες χαλάρωσης δίπλα στο νερό.</p>
 
-  <div class="poi-grid">
-    {% for p in site.pois %}
-      {% if p.category == "lake" %}
-        <div class="poi-card">
-          <a href="{{ p.url | relative_url }}">
-            {{ p.title }}
-          </a>
-        </div>
-      {% endif %}
-    {% endfor %}
-  </div>
+<div class="category">
+<h2>🌿 Λίμνες & Γαλήνια Φύση</h2>
+<p>Ήρεμα τοπία, φυσική ομορφιά και εμπειρίες χαλάρωσης δίπλα στο νερό.</p>
+
+<div class="poi-grid">
+{% for p in site.pois %}
+{% if p.category == "lake" %}
+<div class="poi-card">
+<a href="{{ p.url | relative_url }}">
+{{ p.title }}
+</a>
+</div>
+{% endif %}
+{% endfor %}
+</div>
 </div>
 
 <div class="category">
-  <h2>🌊 Ποτάμια &amp; Δραστηριότητες</h2>
-  <p>
-    Κρυστάλλινα νερά, φαράγγια και μοναδικές εμπειρίες περιπέτειας
-    στην καρδιά της φύσης.
-  </p>
+<h2>🌊 Ποτάμια & Δραστηριότητες</h2>
+<p> Κρυστάλλινα νερά, φαράγγια και μοναδικές εμπειρίες περιπέτειας στην καρδιά της φύσης.</p>
 
-  <div class="poi-grid">
-    {% for p in site.pois %}
-      {% if p.category == "river" %}
-        <div class="poi-card">
-          <a href="{{ p.url | relative_url }}">
-            {{ p.title }}
-          </a>
-        </div>
-      {% endif %}
-    {% endfor %}
-  </div>
+<div class="poi-grid">
+{% for p in site.pois %}
+{% if p.category == "river" %}
+<div class="poi-card">
+<a href="{{ p.url | relative_url }}">
+{{ p.title }}
+</a>
+</div>
+{% endif %}
+{% endfor %}
+</div>
 </div>
 
 <div class="category">
-  <h2>🏔️ Ορεινές Αποδράσεις &amp; Περιπέτεια</h2>
-  <p>
-    Αλπικά τοπία, εντυπωσιακά φαράγγια και πεζοπορικές διαδρομές
-    για όσους αγαπούν την εξερεύνηση.
-  </p>
+<h2>🏔️ Ορεινές Αποδράσεις & Περιπέτεια</h2>
+<p>Αλπικά τοπία, εντυπωσιακά φαράγγια και πεζοπορικές διαδρομές για όσους αγαπούν την εξερεύνηση.</p>
 
-  <div class="poi-grid">
-    {% for p in site.pois %}
-      {% if p.category == "mountain" %}
-        <div class="poi-card">
-          <a href="{{ p.url | relative_url }}">
-            {{ p.title }}
-          </a>
-        </div>
-      {% endif %}
-    {% endfor %}
-  </div>
+<div class="poi-grid">
+{% for p in site.pois %}
+{% if p.category == "mountain" %}
+<div class="poi-card">
+<a href="{{ p.url | relative_url }}">
+{{ p.title }}
+</a>
 </div>
+{% endif %}
+{% endfor %}
+</div>
+</div>
+
