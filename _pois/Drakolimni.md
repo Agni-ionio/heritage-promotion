@@ -3,6 +3,7 @@ layout: poi
 title: "Δρακόλιμνη Τύμφης"
 category: mountain
 wikidatum: Q2615364
+card_description: "Εντυπωσιακή Αλπική λίμνη της Τύμφης με μοναδικά ορεινά τοπία και εντυπωσιακή θέα." 
 load_leaflet: 1
 ---
 
