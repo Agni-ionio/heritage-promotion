@@ -4,43 +4,83 @@ title: POIs List
 permalink: /pois/
 ---
 
-<h2 class="category-title lakes">
-  🌿 Lakes & Serenity
-</h2>
-<ul>
+<style>
+.poi-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+  gap:20px;
+  margin-bottom:40px;
+}
+
+.poi-card{
+  border:1px solid #ddd;
+  border-radius:12px;
+  padding:20px;
+  background:white;
+  box-shadow:0 2px 8px rgba(0,0,0,0.1);
+  transition:0.3s;
+}
+
+.poi-card:hover{
+  transform:translateY(-4px);
+  box-shadow:0 6px 16px rgba(0,0,0,0.15);
+}
+
+.poi-card a{
+  text-decoration:none;
+  font-weight:bold;
+  color:#2c3e50;
+}
+
+.category{
+  margin-top:40px;
+}
+</style>
+
+<div class="category">
+<h2>🌿 Lakes & Serenity</h2>
+
+<div class="poi-grid">
 {% for p in site.pois %}
-  {% if p.category == "lake" %}
-    <li>
-      <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
-    </li>
-  {% endif %}
+{% if p.category == "lake" %}
+<div class="poi-card">
+<a href="{{ p.url | relative_url }}">
+{{ p.title }}
+</a>
+</div>
+{% endif %}
 {% endfor %}
-</ul>
+</div>
+</div>
 
-<h2 class="category-title rivers">
-  🌊 Rivers & Adventure
-</h2>
-<ul>
+<div class="category">
+<h2>🌊 Rivers & Adventure</h2>
+
+<div class="poi-grid">
 {% for p in site.pois %}
-  {% if p.category == "river" %}
-    <li>
-      <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
-    </li>
-  {% endif %}
+{% if p.category == "river" %}
+<div class="poi-card">
+<a href="{{ p.url | relative_url }}">
+{{ p.title }}
+</a>
+</div>
+{% endif %}
 {% endfor %}
-</ul>
+</div>
+</div>
 
-<h2 class="category-title mountains">
-  🏔️ Mountain Escapes
-</h2>
-<ul>
+<div class="category">
+<h2>🏔️ Mountain Escapes</h2>
+
+<div class="poi-grid">
 {% for p in site.pois %}
-  {% if p.category == "mountain" %}
-    <li>
-      <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
-    </li>
-  {% endif %}
+{% if p.category == "mountain" %}
+<div class="poi-card">
+<a href="{{ p.url | relative_url }}">
+{{ p.title }}
+</a>
+</div>
+{% endif %}
 {% endfor %}
-</ul>
-
-
+</div>
+</div>
