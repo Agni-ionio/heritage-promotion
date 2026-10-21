@@ -3,6 +3,7 @@ layout: poi
 title: "Ποταμός Αχέροντας"
 category: river
 wikidatum: Q191087
+card_description: "Μυθικός ποταμός της Ηπείρου με κρυστάλλινα νερά, φαράγγια, πηγές και δραστηριότητες περιπέτειας."
 load_leaflet: 1
 ---
 
