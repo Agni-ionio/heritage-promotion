@@ -13,7 +13,7 @@ layout: home
   <div style="height:140px;"></div>
 
   <p style="color:white; font-size:1.5rem; font-weight:500; letter-spacing:1px;">
-  Αυθεντική Ελληνική Φύση
+  Μια Διαφορετική Ελλάδα
   </p>
 
   <a href="/heritage-promotion/pois/"
