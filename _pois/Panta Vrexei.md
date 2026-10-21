@@ -40,7 +40,7 @@ load_leaflet: 1
         Εξερευνήστε το Φαράγγι Πάντα Βρέχει
       </h3>
 
-      <a href="https://www.youtube.com/watch?v=8U-a18JptZ0" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 8px; background-color: #2d6a4f; color: #ffffff; text-decoration: none; padding: 8px 20px; border-radius: 25px; font-weight: 500; font-size: 0.88rem; box-shadow: 0 4px 12px rgba(0,0,0,0.3); border: 1px solid rgba(255,255,255,0.2);">
+      <a href="https://www.youtube.com/watch?v=BAG7b60f_NA&list=RDBAG7b60f_NA&start_radio=1" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 8px; background-color: #2d6a4f; color: #ffffff; text-decoration: none; padding: 8px 20px; border-radius: 25px; font-weight: 500; font-size: 0.88rem; box-shadow: 0 4px 12px rgba(0,0,0,0.3); border: 1px solid rgba(255,255,255,0.2);">
         <span>🎬</span> Προβολή Βίντεο
       </a>
     </div>
