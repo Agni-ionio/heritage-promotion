@@ -1,6 +1,7 @@
 ---
 layout: poi
 title: "Βάλια Κάλντα"
+category: mountain
 wikidatum: Q1989158
 load_leaflet: 1
 ---
