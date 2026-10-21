@@ -1,6 +1,7 @@
 ---
 layout: poi
 title: "Λίμνη Δόξα"
+category: lake
 wikidatum: Q3565135
 load_leaflet: 1
 ---
