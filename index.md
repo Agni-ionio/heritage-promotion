@@ -6,16 +6,15 @@ layout: home
 
 <div style="position:absolute; inset:0; background:rgba(0,0,0,0.35); text-align:center;">
 
-  <h1 style="color:white; font-size:3rem; margin-top:50px;">
+  <h1 style="color:white; font-size:3rem; margin-top:55px;">
     Beyond the Blue
   </h1>
 
   <div style="height:140px;"></div>
 
-  <p style="color:white; font-size:1.5rem; font-weight:600;">
-  Πέρα από τη Θάλασσα,<br>
-  Υπάρχει μια Άλλη Ελλάδα
-</p>
+  <p style="color:white; font-size:1.5rem; font-weight:500; letter-spacing:1px;">
+  Αυθεντική Ελληνική Φύση
+  </p>
 
   <a href="/heritage-promotion/pois/"
      style="display:inline-block; margin-top:20px; background:#2d6a4f; color:white; padding:12px 24px; border-radius:30px; text-decoration:none; font-weight:bold;">
