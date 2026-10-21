@@ -1,6 +1,7 @@
 ---
 layout: poi
 title: "Λίμνη Κερκίνη"
+category: lake
 wikidatum: Q1739269
 load_leaflet: 1
 ---
