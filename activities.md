@@ -4,51 +4,38 @@ title: Δραστηριότητες
 permalink: /activities/
 ---
 
+# 🥾 Δραστηριότητες
+
 Ανακαλύψτε τους προορισμούς του Beyond the Blue μέσα από μοναδικές εμπειρίες στη φύση: αναζωογονητικές βουτιές σε κρυστάλλινα νερά, πεζοπορίες σε επιβλητικά φαράγγια και εξερευνήσεις σε μοναδικά φυσικά τοπία.
 
-## 🏊 Κολύμβηση
+## 🏊 Κολύμβηση (6 προορισμοί)
 
-- [Αχέροντας](/heritage-promotion/pois/Axerontas/)
-- [Λίμνη Δόξα](/heritage-promotion/pois/Doxa/)
-- [Λίμνη Πλαστήρα](/heritage-promotion/pois/Plastira/)
-- [Πάντα Βρέχει](/heritage-promotion/pois/Panta%20Vrexei/)
-- [Βοϊδομάτης](/heritage-promotion/pois/Voidomatis/)
-- [Πρέσπες](/heritage-promotion/pois/Prespes/)
+- [Αχέροντας]
+- [Λίμνη Δόξα]
+- Λίμνη Πλαστήρα
+- Πάντα Βρέχει
+- Βοϊδομάτης
+- Πρέσπες
 
-## 🥾 Πεζοπορία
+## 🥾 Πεζοπορία (6 προορισμοί)
 
-- [Δρακολίμνη](/heritage-promotion/pois/Drakolimni/)
-- [Φαράγγι Βίκου](/heritage-promotion/pois/Vikos/)
-- [Βάλια Κάλντα](/heritage-promotion/pois/Valia%20Kalda/)
-- [Πάντα Βρέχει](/heritage-promotion/pois/Panta%20Vrexei/)
-- [Βοϊδομάτης](/heritage-promotion/pois/Voidomatis/)
-- [Αχέροντας](/heritage-promotion/pois/Axerontas/)
+Δρακολίμνη, Φαράγγι Βίκου, Βάλια Κάλντα, Πάντα Βρέχει, Βοϊδομάτης, Αχέροντας.
 
-## 🚣 Κανό / Καγιάκ
+## 🚣 Κανό / Καγιάκ (4 προορισμοί)
 
-- [Λίμνη Πλαστήρα](/heritage-promotion/pois/Plastira/)
-- [Λίμνη Δόξα](/heritage-promotion/pois/Doxa/)
-- [Λίμνη Κερκίνη](/heritage-promotion/pois/Kerkini/)
-- [Πρέσπες](/heritage-promotion/pois/Prespes/)
+Λίμνη Πλαστήρα, Λίμνη Δόξα, Λίμνη Κερκίνη, Πρέσπες.
 
-## 📸 Φωτογραφία Φύσης
+## 📸 Φωτογραφία Φύσης (7 προορισμοί)
 
-- [Δρακολίμνη](/heritage-promotion/pois/Drakolimni/)
-- [Φαράγγι Βίκου](/heritage-promotion/pois/Vikos/)
-- [Βάλια Κάλντα](/heritage-promotion/pois/Valia%20Kalda/)
-- [Πάντα Βρέχει](/heritage-promotion/pois/Panta%20Vrexei/)
-- [Λίμνη Πλαστήρα](/heritage-promotion/pois/Plastira/)
-- [Πρέσπες](/heritage-promotion/pois/Prespes/)
-- [Λίμνη Κερκίνη](/heritage-promotion/pois/Kerkini/)
+Δρακολίμνη, Φαράγγι Βίκου, Βάλια Κάλντα, Πάντα Βρέχει, Λίμνη Πλαστήρα, Πρέσπες, Λίμνη Κερκίνη.
 
-## 🦆 Παρατήρηση Πουλιών
+## 🦆 Παρατήρηση Πουλιών (2 προορισμοί)
 
-- [Λίμνη Κερκίνη](/heritage-promotion/pois/Kerkini/)
-- [Πρέσπες](/heritage-promotion/pois/Prespes/)
+Λίμνη Κερκίνη, Πρέσπες.
 
-## 🌲 Επαφή με τη με τη Φύση
+## 🌲 Επαφή με τη Φύση (4 προορισμοί)
 
-- [Βάλια Κάλντα](/heritage-promotion/pois/Valia%20Kalda/)
-- [Δρακολίμνη](/heritage-promotion/pois/Drakolimni/)
-- [Πρέσπες](/heritage-promotion/pois/Prespes/)
-- [Φαράγγι Βίκου](/heritage-promotion/pois/Vikos/)
+Βάλια Κάλντα, Δρακολίμνη, Πρέσπες, Φαράγγι Βίκου.
+
+
+
