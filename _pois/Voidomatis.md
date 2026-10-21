@@ -3,6 +3,7 @@ layout: poi
 title: Ποταμός Βοϊδομάτης
 category: river
 wikidatum: Q2336884
+card_description: "Κρυστάλλινος ποταμός του Ζαγορίου που διασχίζει το Εθνικό Πάρκο Βόρειας Πίνδου." 
 load_leaflet: 1
 ---
 
