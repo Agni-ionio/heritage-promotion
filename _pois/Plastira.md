@@ -3,6 +3,7 @@ layout: poi
 title: "Λίμνη Πλαστήρα"
 category: lake
 wikidatum: Q1475796
+card_description: "Ορεινή λίμνη στα Άγραφα με πλούσια φύση, δραστηριότητες και πανοραμική θέα.
 load_leaflet: 1
 ---
 
