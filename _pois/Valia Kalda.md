@@ -3,6 +3,7 @@ layout: poi
 title: "Βάλια Κάλντα"
 category: mountain
 wikidatum: Q1989158
+card_description: "Παρθένο οικοσύστημα της Πίνδου με πυκνά δάση, ορμητικά ρέματα και σπάνια πανίδα."
 load_leaflet: 1
 ---
 
