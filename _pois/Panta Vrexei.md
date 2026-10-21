@@ -29,11 +29,21 @@ load_leaflet: 1
 
   <div style="position:absolute; top:0; left:0; width:100%; height:100%; background:linear-gradient(180deg, rgba(0,0,0,0.05) 0%, rgba(15,30,20,0.75) 100%); display:flex; flex-direction:column; justify-content:space-between; padding:18px; box-sizing:border-box;">
 
-    <div style="text-align:left;">
-      <span style="background:rgba(255,255,255,0.25); color:#fff; font-size:0.65rem; font-weight:600; padding:4px 10px; border-radius:12px;">
-        4K Aerial View
-      </span>
-    </div>
+<div style="text-align: left; margin-top: 25px;">
+  <span style="background: rgba(255, 255, 255, 0.25);
+               backdrop-filter: blur(8px);
+               -webkit-backdrop-filter: blur(8px);
+               color: #ffffff;
+               font-size: 0.65rem;
+               font-weight: 600;
+               padding: 4px 10px;
+               border-radius: 12px;
+               text-transform: uppercase;
+               letter-spacing: 1px;
+               border: 1px solid rgba(255,255,255,0.3);">
+    4K Aerial View
+  </span>
+</div>
 
     <div style="text-align:center;">
       <h3 style="color:#fff; margin:0 0 10px 0; font-size:1.2rem;">
