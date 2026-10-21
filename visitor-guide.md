@@ -87,6 +87,7 @@ permalink: /visitor-guide/
 </p>
 
 <details>
+  <details style="margin:15px 0;">
   <summary><strong>Είναι ασφαλής η κολύμβηση;</strong></summary>
   <p>
     Η ασφάλεια εξαρτάται από τις καιρικές συνθήκες και τα χαρακτηριστικά κάθε περιοχής.
@@ -95,6 +96,7 @@ permalink: /visitor-guide/
 </details>
 
 <details>
+  <details style="margin:15px 0;">
   <summary><strong>Επιτρέπεται η κατασκήνωση;</strong></summary>
   <p>
     Οι κανονισμοί διαφέρουν ανά περιοχή. Συνιστάται πάντα ενημέρωση από τους αρμόδιους φορείς πριν από οποιαδήποτε διανυκτέρευση στη φύση.
@@ -102,6 +104,7 @@ permalink: /visitor-guide/
 </details>
 
 <details>
+  <details style="margin:15px 0;">
   <summary><strong>Είναι κατάλληλοι οι προορισμοί για οικογένειες;</strong></summary>
   <p>
     Πολλοί από τους προορισμούς είναι κατάλληλοι για οικογενειακές εκδρομές, με διαφορετικά επίπεδα δυσκολίας και πρόσβασης.
@@ -109,6 +112,7 @@ permalink: /visitor-guide/
 </details>
 
 <details>
+  <details style="margin:15px 0;">
   <summary><strong>Υπάρχουν οργανωμένες δραστηριότητες;</strong></summary>
   <p>
     Σε ορισμένους προορισμούς προσφέρονται δραστηριότητες όπως πεζοπορία, καγιάκ, rafting και παρατήρηση πουλιών.
@@ -116,6 +120,7 @@ permalink: /visitor-guide/
 </details>
 
 <details>
+  <details style="margin:15px 0;">
   <summary><strong>Χρειάζεται ειδικός εξοπλισμός για πεζοπορία;</strong></summary>
   <p>
     Για τις περισσότερες επισκέψεις αρκούν άνετα παπούτσια, νερό και κατάλληλος ρουχισμός.
@@ -124,6 +129,7 @@ permalink: /visitor-guide/
 </details>
 
 <details>
+  <details style="margin:15px 0;">
   <summary><strong>Υπάρχει πρόσβαση με το αυτοκίνητο;</strong></summary>
   <p>
     Οι περισσότεροι προορισμοί διαθέτουν οδική πρόσβαση, ενώ σε αρκετές περιπτώσεις
