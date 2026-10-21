@@ -1,6 +1,7 @@
 ---
 layout: poi
 title: "Δρακόλιμνη Τύμφης"
+category: mountain
 wikidatum: Q2615364
 load_leaflet: 1
 ---
