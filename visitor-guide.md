@@ -86,10 +86,6 @@ permalink: /visitor-guide/
 Απαντήσεις σε συχνές ερωτήσεις σχετικά με την επίσκεψη στους φυσικούς προορισμούς.
 </p>
 
-<hr style="margin:40px 0;">
-
-<h2>ℹ️ Συχνές Ερωτήσεις (FAQ)</h2>
-
 <details>
   <summary><strong>Είναι ασφαλής η κολύμβηση;</strong></summary>
   <p>
