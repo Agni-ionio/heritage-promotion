@@ -1,6 +1,7 @@
 ---
 layout: poi
 title: "Ποταμός Αχέροντας"
+category: river
 wikidatum: Q191087
 load_leaflet: 1
 ---
