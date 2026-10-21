@@ -3,6 +3,7 @@ layout: poi
 title: "Λίμνη Δόξα"
 category: lake
 wikidatum: Q3565135
+card_description: "Τεχνητή λίμνη στην Κορινθία με ελατοδάση και δραστηριότητες αναψυχής."
 load_leaflet: 1
 ---
 
