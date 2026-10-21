@@ -6,7 +6,7 @@ layout: home
 
 <div style="position:absolute; inset:0; background:rgba(0,0,0,0.35); text-align:center;">
 
-  <h1 style="color:white; font-size:3rem; margin-top:55px;">
+  <h1 style="color:white; font-size:3rem; margin-top:60px;">
     Beyond the Blue
   </h1>
 
