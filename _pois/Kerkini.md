@@ -3,6 +3,7 @@ layout: poi
 title: "Λίμνη Κερκίνη"
 category: lake
 wikidatum: Q1739269
+card_description: "Προστατευόμενος υγροβιότοπος με πλούσια ορνιθοπανίδα και μοναδικά φυσικά τοπία."
 load_leaflet: 1
 ---
 
