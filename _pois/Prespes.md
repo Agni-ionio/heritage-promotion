@@ -1,6 +1,7 @@
 ---
 layout: poi
 title: "Λίμνες Πρέσπες"
+category: lake
 wikidatum: Q204392
 load_leaflet: 1
 ---
