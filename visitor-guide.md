@@ -25,6 +25,12 @@ permalink: /visitor-guide/
     <td style="padding:10px;">Ιδανική εποχή για rafting και ποτάμιες διαδρομές.</td>
   </tr>
 
+ <tr>
+   <td style="padding:10px;">🌊 Ποταμός Λούσιος</td>
+   <td style="padding:10px;">Άνοιξη - Φθινόπωρο</td>
+   <td style="padding:10px;">Ιδανική περίοδος για πεζοπορία στο φαράγγι, επίσκεψη στα μοναστήρια και ποτάμιες δραστηριότητες.</td>
+  </tr>
+
   <tr>
     <td style="padding:10px;">🏞️ Λίμνη Δόξα</td>
     <td style="padding:10px;">Άνοιξη - Φθινόπωρο</td>
