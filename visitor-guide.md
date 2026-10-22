@@ -20,27 +20,21 @@ permalink: /visitor-guide/
   </tr>
 
   <tr>
-    <td style="padding:10px;">🌊 Ποταμός Αχέροντας</td>
-    <td style="padding:10px;">Άνοιξη - Καλοκαίρι</td>
-    <td style="padding:10px;">Ιδανική εποχή για rafting και ποτάμιες διαδρομές.</td>
-  </tr>
-
- <tr>
-   <td style="padding:10px;">🌊 Ποταμός Λούσιος</td>
-   <td style="padding:10px;">Άνοιξη - Φθινόπωρο</td>
-   <td style="padding:10px;">Ιδανική περίοδος για πεζοπορία στο φαράγγι, επίσκεψη στα μοναστήρια και ποτάμιες δραστηριότητες.</td>
-  </tr>
-
-  <tr>
     <td style="padding:10px;">🏞️ Λίμνη Δόξα</td>
     <td style="padding:10px;">Άνοιξη - Φθινόπωρο</td>
-    <td style="padding:10px;">Κατάλληλες συνθήκες για πεζοπορία και χαλάρωση.</td>
+    <td style="padding:10px;">Κατάλληλες συνθήκες για πεζοπορία, ποδηλασία και χαλάρωση.</td>
   </tr>
 
   <tr>
-    <td style="padding:10px;">⛰️ Δρακόλιμνη Τύμφης</td>
-    <td style="padding:10px;">Ιούνιος - Σεπτέμβριος</td>
-    <td style="padding:10px;">Οι ορεινές διαδρομές είναι πιο προσβάσιμες.</td>
+    <td style="padding:10px;">🏞️ Λίμνη Πλαστήρα</td>
+    <td style="padding:10px;">Όλο τον χρόνο</td>
+    <td style="padding:10px;">Δραστηριότητες στη φύση και μοναδική ομορφιά σε κάθε εποχή.</td>
+  </tr>
+
+  <tr>
+    <td style="padding:10px;">🏞️ Λίμνες Πρέσπες</td>
+    <td style="padding:10px;">Άνοιξη - Φθινόπωρο</td>
+    <td style="padding:10px;">Ιδανικές συνθήκες για εξερεύνηση, φωτογραφία φύσης και παρατήρηση πουλιών.</td>
   </tr>
 
   <tr>
@@ -50,41 +44,54 @@ permalink: /visitor-guide/
   </tr>
 
   <tr>
-    <td style="padding:10px;">🌧️ Φαράγγι Πάντα Βρέχει</td>
+    <td style="padding:10px;">🌊 Ποταμός Αχέροντας</td>
     <td style="padding:10px;">Άνοιξη - Καλοκαίρι</td>
-    <td style="padding:10px;">Ευχάριστες θερμοκρασίες για εξερεύνηση και κολύμβηση.</td>
+    <td style="padding:10px;">Ιδανική εποχή για rafting, river trekking και ποτάμιες διαδρομές.</td>
   </tr>
 
   <tr>
-    <td style="padding:10px;">🏞️ Λίμνη Πλαστήρα</td>
-    <td style="padding:10px;">Όλο τον χρόνο</td>
-    <td style="padding:10px;">Δραστηριότητες και φυσική ομορφιά σε κάθε εποχή.</td>
-  </tr>
-
-  <tr>
-    <td style="padding:10px;">🏞️ Πρέσπες</td>
-    <td style="padding:10px;">Άνοιξη - Φθινόπωρο</td>
-    <td style="padding:10px;">Ιδανικές συνθήκες για εξερεύνηση και φωτογραφία φύσης.</td>
-  </tr>
-
-  <tr>
-    <td style="padding:10px;">🌲 Βάλια Κάλντα</td>
-    <td style="padding:10px;">Άνοιξη - Φθινόπωρο</td>
-    <td style="padding:10px;">Κατάλληλη περίοδος για πεζοπορία και επαφή με τη φύση.</td>
-  </tr>
-
-  <tr>
-    <td style="padding:10px;">🏔️ Φαράγγι Βίκου</td>
+    <td style="padding:10px;">🌊 Ποταμός &amp; Καταρράκτες Νέδας</td>
     <td style="padding:10px;">Άνοιξη - Αρχές Φθινοπώρου</td>
-    <td style="padding:10px;">Ιδανικές συνθήκες για τη διάσχιση του φαραγγιού.</td>
+    <td style="padding:10px;">Κατάλληλη περίοδος για πεζοπορία, καταρράκτες και φυσικές πισίνες.</td>
+  </tr>
+
+  <tr>
+    <td style="padding:10px;">🌊 Ποταμός Βενέτικος</td>
+    <td style="padding:10px;">Άνοιξη - Καλοκαίρι</td>
+    <td style="padding:10px;">Ιδανικές συνθήκες για κολύμβηση, καγιάκ και δραστηριότητες στη φύση.</td>
   </tr>
 
   <tr>
     <td style="padding:10px;">🌊 Ποταμός Βοϊδομάτης</td>
     <td style="padding:10px;">Άνοιξη - Καλοκαίρι</td>
-    <td style="padding:10px;">Κρυστάλλινα νερά και υπαίθριες δραστηριότητες.</td>
+    <td style="padding:10px;">Κρυστάλλινα νερά και ιδανικές συνθήκες για υπαίθριες δραστηριότητες.</td>
+  </tr>
+
+  <tr>
+    <td style="padding:10px;">🌲 Βάλια Κάλντα</td>
+    <td style="padding:10px;">Άνοιξη - Φθινόπωρο</td>
+    <td style="padding:10px;">Κατάλληλη περίοδος για πεζοπορία και επαφή με την άγρια φύση.</td>
+  </tr>
+
+  <tr>
+    <td style="padding:10px;">⛰️ Δρακόλιμνη Τύμφης</td>
+    <td style="padding:10px;">Ιούνιος - Σεπτέμβριος</td>
+    <td style="padding:10px;">Οι ορεινές διαδρομές είναι πιο προσβάσιμες και ασφαλείς.</td>
+  </tr>
+
+  <tr>
+    <td style="padding:10px;">🏔️ Φαράγγι του Βίκου</td>
+    <td style="padding:10px;">Άνοιξη - Αρχές Φθινοπώρου</td>
+    <td style="padding:10px;">Ιδανικές συνθήκες για τη διάσχιση του φαραγγιού και φωτογραφία τοπίου.</td>
+  </tr>
+
+  <tr>
+    <td style="padding:10px;">🌧️ Φαράγγι Πάντα Βρέχει</td>
+    <td style="padding:10px;">Άνοιξη - Καλοκαίρι</td>
+    <td style="padding:10px;">Ευχάριστες θερμοκρασίες για εξερεύνηση και κολύμβηση.</td>
   </tr>
 </table>
+
 
 <hr style="margin:50px 0;">
 
