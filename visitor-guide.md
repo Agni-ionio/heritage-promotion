@@ -20,9 +20,9 @@ permalink: /visitor-guide/
   </tr>
 
   <tr>
-    <td style="padding:10px;">🏞️ Λίμνη Δόξα</td>
-    <td style="padding:10px;">Άνοιξη - Φθινόπωρο</td>
-    <td style="padding:10px;">Κατάλληλες συνθήκες για πεζοπορία, ποδηλασία και χαλάρωση.</td>
+    <td style="padding:10px;">🏞️ Λίμνη Τριχωνίδα</td>
+    <td style="padding:10px;">Άνοιξη - Καλοκαίρι</td>
+    <td style="padding:10px;">Ιδανικές συνθήκες για κολύμβηση, χαλάρωση και δραστηριότητες δίπλα στη λίμνη.</td>
   </tr>
 
   <tr>
