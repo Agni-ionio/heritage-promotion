@@ -36,4 +36,4 @@ permalink: /ar-experience/
 4. Στρέψτε την κάμερα προς τη φωτογραφία της Δρακολίμνης.
 5. Πατήστε το κουμπί που εμφανίζεται για να δείτε περισσότερες πληροφορίες.
 
-![QR Code](/heritage-promotion/assets/images/ar-qr.png) 
+![QR Code](/heritage-promotion/ar/drakolimni qr-code.png)
