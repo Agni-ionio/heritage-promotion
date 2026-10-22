@@ -26,15 +26,14 @@ load_leaflet: 1
 - **Παρατήρηση Άγριας Φύσης (Wildlife Watching):** Καταφύγιο για σπάνια είδη όπως η καφέ αρκούδα, ο λύκος και σπάνια αρπακτικά πουλιά.
 - **Περιηγήσεις 4x4:** Εξερεύνηση των δασικών διαδρομών με κατάλληλα οχήματα εκτός δρόμου.
 
-<div style="position: relative; max-width: 100%; height: 280px; border-radius: 16px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.15); margin: 30px 0; background: url('https://img.youtube.com/vi/wUgXfw7h3nE/hqdefault.jpg') center/cover no-repeat;">
+<div style="position: relative; max-width: 100%; height: 280px; border-radius: 16px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.15); margin: 30px 0; background: url('https://agni-ionio.github.io/heritage-promotion/assets/images/valia_kalda.jpg') center/cover no-repeat;">
   
-  <!-- Ημι-διάφανο κάλυμμα με εστίαση στο κάτω μέρος -->
   <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(180deg, rgba(0,0,0,0.2) 0%, rgba(15, 30, 20, 0.8) 100%); display: flex; flex-direction: column; justify-content: space-between; padding: 20px; box-sizing: border-box;">
     
  <!-- Tag ψηλά πάνω αριστερά -->
     <div style="text-align: left;">
       <span style="background: rgba(255, 255, 255, 0.2); backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px); color: #ffffff; font-size: 0.7rem; font-weight: 600; padding: 5px 12px; border-radius: 20px; text-transform: uppercase; letter-spacing: 1.2px; border: 1px solid rgba(255,255,255,0.3);">
-        🚁 4K Aerial View
+        4K Aerial View
       </span>
     </div>
 
