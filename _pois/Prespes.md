@@ -25,7 +25,7 @@ load_leaflet: 1
 - **Βαρκάδα στα Ασκηταριά:** Περιήγηση στη Μεγάλη Πρέσπα με παραδοσιακό σκάφος για την επίσκεψη στα μεταβυζαντινά ασκηταριά.
 - **Εξερεύνηση στο Ψαράδες:** Πεζοπορία και δοκιμή τοπικών παραδοσιακών γεύσεων στο διατηρητέο παραλίμνιο χωριό.
 
-<div style="position: relative; max-width: 100%; height: 280px; border-radius: 16px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.15); margin: 30px 0; background: url('https://img.youtube.com/vi/3zJGHG_bt0k/hqdefault.jpg') center/cover no-repeat;">
+<div style="position: relative; max-width: 100%; height: 280px; border-radius: 16px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.15); margin: 30px 0; background: url('https://agni-ionio.github.io/heritage-promotion/assets/images/prespa.jpg') center/cover no-repeat;">
   
   <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(180deg, rgba(0,0,0,0.1) 0%, rgba(15, 30, 20, 0.85) 100%); display: flex; flex-direction: column; justify-content: space-between; padding: 18px; box-sizing: border-box;">
     
