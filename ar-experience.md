@@ -32,13 +32,11 @@ permalink: /ar-experience/
 3. Στρέψτε την κάμερα προς τη φωτογραφία της Δρακολίμνης.
 4. Περιμένετε να αναγνωριστεί η εικόνα.
 5. Πατήστε το κουμπί που εμφανίζεται για να μεταβείτε στη σελίδα του προορισμού.
-
 <div style="text-align:center;">
   <img src="/heritage-promotion/ar/drakolimni%20qr-code.png"
        alt="QR Code"
        width="250">
 </div>
-
 <hr style="margin:50px 0;">
 
 ### Εναλλακτικά
