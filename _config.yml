@@ -30,8 +30,9 @@ header_pages:
   - pois.md
   - activities.md
   - visitor-guide.md
-  - about.md
   - team.md
+  - about.md
+ 
 plugins:
   - jekyll-feed
 
