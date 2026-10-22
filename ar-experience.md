@@ -37,6 +37,7 @@ permalink: /ar-experience/
 5. Πατήστε το κουμπί που εμφανίζεται για να δείτε περισσότερες πληροφορίες.
 
 ![QR Code](/heritage-promotion/ar/drakolimni qr-code.png)
+https://github.com/Agni-ionio/heritage-promotion/blob/master/ar/drakolimni%20qr-code.png
 
 ### Εναλλακτικά
 
