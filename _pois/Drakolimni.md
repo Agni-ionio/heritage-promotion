@@ -32,7 +32,7 @@ load_leaflet: 1
     
     <div style="text-align: left;">
       <span style="background: rgba(255, 255, 255, 0.2); backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px); color: #ffffff; font-size: 0.7rem; font-weight: 600; padding: 5px 12px; border-radius: 20px; text-transform: uppercase; letter-spacing: 1.2px; border: 1px solid rgba(255,255,255,0.3);">
-        🚁 4K Aerial View
+        4K Aerial View
       </span>
     </div>
 
