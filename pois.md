@@ -47,7 +47,7 @@ permalink: /pois/
 }
 
 .intro{
-  font-size:1.05rem;
+  font-size:1rem;
   line-height:1.5;
   margin-bottom:40px;
   text-align:left;
