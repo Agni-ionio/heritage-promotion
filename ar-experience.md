@@ -37,3 +37,9 @@ permalink: /ar-experience/
 5. Πατήστε το κουμπί που εμφανίζεται για να δείτε περισσότερες πληροφορίες.
 
 ![QR Code](/heritage-promotion/ar/drakolimni qr-code.png)
+
+### Εναλλακτικά
+
+Ανοίξτε απευθείας την εφαρμογή:
+
+https://pql20.zappar-us.io/4630123103355388231/
