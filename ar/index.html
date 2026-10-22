@@ -1,27 +1,73 @@
 <!DOCTYPE html>
-<html>
+<html lang="el">
 <head>
-    <meta charset="utf-8">
-    <title>AR Test</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>AR Δρακολίμνη</title>
 
-    <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
-    <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
+<style>
+body{
+    margin:0;
+    font-family:Arial,sans-serif;
+    background:#000;
+}
+
+.hero{
+    position:relative;
+}
+
+.hero img{
+    width:100%;
+    display:block;
+}
+
+.card{
+    position:absolute;
+    bottom:20px;
+    left:20px;
+    right:20px;
+    background:rgba(255,255,255,0.92);
+    padding:20px;
+    border-radius:12px;
+}
+
+h1{
+    margin-top:0;
+}
+
+.button{
+    display:inline-block;
+    margin-top:10px;
+    padding:10px 15px;
+    background:#1565C0;
+    color:white;
+    text-decoration:none;
+    border-radius:8px;
+}
+</style>
 </head>
 
-<body style="margin:0; overflow:hidden;">
+<body>
 
-<a-scene embedded arjs="debugUIEnabled: true;">
+<div class="hero">
 
-    <a-marker preset="hiro">
-        <a-box
-            position="0 0.5 0"
-            color="red">
-        </a-box>
-    </a-marker>
+<img src="drakolimni.jpg" alt="Δρακολίμνη">
 
-    <a-entity camera></a-entity>
+<div class="card">
 
-</a-scene>
+<h1>🏔️ Δρακολίμνη Τύμφης</h1>
 
-</body>
-</html>
+<p>
+Αλπική λίμνη της Ηπείρου σε υψόμετρο περίπου 2.050 μ.
+Αποτελεί έναν από τους πιο εντυπωσιακούς φυσικούς
+προορισμούς της Ελλάδας.
+</p>
+
+<p>
+🥾 Πεζοπορία<br>
+📷 Φωτογραφία φύσης<br>
+🌿 Εθνικό Πάρκο Βίκου - Αώου
+</p>
+
+<a class="button"
+href="https://agni-ion
