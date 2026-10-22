@@ -2,7 +2,9 @@
 layout: home
 ---
 
-<div style="position:relative; height:500px; border-radius:20px; overflow:hidden; margin-bottom:40px; background:url('https://upload.wikimedia.org/wikipedia/commons/7/79/WP_20140207_16_45_27_Panorama.jpg') center center/cover no-repeat;">
+<div style="position:relative; height:500px; border-radius:20px; overflow:hidden; margin-bottom:40px; background:url('https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/WP_20140207_16_45_27_Panorama.jpg/1920px-WP_20140207_16_45_27_Panorama.jpg?_=20151102225804') center center/cover no-repeat;">
+
+
 
 <div style="position:absolute; inset:0; background:rgba(0,0,0,0.35); text-align:center;">
 
@@ -13,7 +15,7 @@ layout: home
   <div style="height:140px;"></div>
 
   <p style="color:white; font-size:1.5rem; font-weight:500; letter-spacing:1px;">
-  Μια Διαφορετική Ελλάδα
+  Ανακαλύψτε μια Διαφορετική Ελλάδα
   </p>
 
   <a href="/heritage-promotion/pois/"
