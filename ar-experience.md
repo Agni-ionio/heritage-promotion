@@ -26,7 +26,7 @@ permalink: /ar-experience/
 - 🌐 Σύνδεση με το Beyond the Blue
 - 🏞️ Διαδραστική εξερεύνηση του σημείου ενδιαφέροντος
 
-[Άνοιγμα AR Experience](/heritage-promotion/ar/)
+<hr style="margin:50px 0;">
 
 ### Οδηγίες χρήσης
 
@@ -35,4 +35,5 @@ permalink: /ar-experience/
 3. Επιτρέψτε πρόσβαση στην κάμερα όταν ζητηθεί.
 4. Στρέψτε την κάμερα προς τη φωτογραφία της Δρακολίμνης.
 5. Πατήστε το κουμπί που εμφανίζεται για να δείτε περισσότερες πληροφορίες.
-![QR Code](/heritage-promotion/assets/images/ar-qr.png)
+
+![QR Code](/heritage-promotion/assets/images/ar-qr.png) 
