@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "🥽 AR Experience"
+title: "AR Experience"
 permalink: /ar-experience/
 ---
 
