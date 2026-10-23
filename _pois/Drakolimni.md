@@ -63,7 +63,7 @@ load_leaflet: 1
   border-left:4px solid #2d6a4f;
   border-radius:8px;
   color:#1b4332;
-  font-weight:600;
 ">
-  🥽 Διαθέσιμη εμπειρία επαυξημένης πραγματικότητας (AR)
+  🥽 Ανακαλύψτε τη Δρακόλιμνη μέσα από μια εμπειρία επαυξημένης πραγματικότητας (AR)
+  διαθέσιμη μέσω της ενότητας <strong>AR Experience</strong>.
 </div>
