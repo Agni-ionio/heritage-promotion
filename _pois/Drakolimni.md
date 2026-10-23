@@ -16,6 +16,7 @@ load_leaflet: 1
   <span style="font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; color: #2d6a4f; background-color: #e8f5e9; padding: 3px 10px; border-radius: 4px;">
     Outdoor Guide
   </span>
+</div>
   
   <h3 style="margin: 6px 0 15px 0; color: #1b4332; font-size: 1.3rem;">
     Προτεινόμενες Δραστηριότητες
