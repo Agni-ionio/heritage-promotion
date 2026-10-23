@@ -12,6 +12,7 @@ load_leaflet: 1
 
 <p style="text-align: justify;">
 Η <strong>Λίμνη Πλαστήρα</strong> (επίσημα Τεχνητή Λίμνη Ταυρωπού) βρίσκεται στο οροπέδιο της Νεβρόπολης στην Καρδίτσα. Περιβάλλεται από ελατοσκέπαστες κορυφές των Αγράφων και αποτελεί έναν από τους δημοφιλέστερους ορεινούς προορισμούς στην Ελλάδα.
+</p>
 
 <div style="margin-top: 25px;">
   <span style="font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; color: #2d6a4f; background-color: #e8f5e9; padding: 3px 10px; border-radius: 4px;">
