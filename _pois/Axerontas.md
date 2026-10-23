@@ -23,14 +23,13 @@ load_leaflet: 1
   </h3>
 </div>
 
-<p align="justify">
+<div style="text-align: justify;">
   
-- **River Trekking:** Διάσχιση του ποταμού περπατώντας στα δροσερά, ρηχά νερά ανάμεσα σε επιβλητικά κάθετα βράχια.
-  <br>
-- **Καγιάκ & Rafting:** Εξερεύνηση των ήρεμων τμημάτων του ποταμού με βάρκα ή καγιάκ.
-  <br>
-- **Πεζοπορία στις Πηγές:** Διαδρομές στα μονοπάτια του φαραγγιού με θέα τις εκβολές και τις πηγές του ποταμού.
-</p>
+**River Trekking:** Διάσχιση του ποταμού περπατώντας στα δροσερά, ρηχά νερά ανάμεσα σε επιβλητικά κάθετα βράχια.
+
+**Καγιάκ & Rafting:** Εξερεύνηση των ήρεμων τμημάτων του ποταμού με βάρκα ή καγιάκ.
+
+**Πεζοπορία στις Πηγές:** Διαδρομές στα μονοπάτια του φαραγγιού με θέα τις εκβολές και τις πηγές του ποταμού.
 
 <div style="position: relative; max-width: 100%; height: 280px; border-radius: 16px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.15); margin: 30px 0; background: url('https://agni-ionio.github.io/heritage-promotion/assets/images/acheron.jpg') center/cover no-repeat;">
   
