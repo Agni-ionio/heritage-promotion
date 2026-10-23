@@ -10,7 +10,10 @@ load_leaflet: 1
 ## Δρακόλιμνη Τύμφης
 *(Περιοχή: Ζαγόρι, Ιωάννινα)*
 
+<p style="text-align: justify;">
+  
 Η **Δρακόλιμνη της Τύμφης** είναι μία από τις πιο διάσημες αλπικές λίμνες της Ελλάδας, σκαρφαλωμένη σε υψόμετρο 2.050 μέτρων στο οροπέδιο της Τύμφης. Το τοπίο είναι επιβλητικό και γυμνό, περιβαλλόμενο από τις απόκρημνες κορυφές της Αστράκας και της Γκαμήλας.
+</p>
 
 <div style="margin-top: 25px;">
   <span style="font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; color: #2d6a4f; background-color: #e8f5e9; padding: 3px 10px; border-radius: 4px;">
