@@ -22,7 +22,9 @@ load_leaflet: 1
 </div>
 
 - **Διάσχιση Φαραγγιού:** Πεζοπορία μεγάλης διαδρομής (διάρκειας 5-6 ωρών) που συνδέει τα χωριά Μονοδένδρι, Βίκος και Παπίγκο.
+
 - **Περιήγηση σε Θέες:** Επίσκεψη σε φυσικά παρατηρητήρια όπως η Οξιά και η Αγία Παρασκευή στο Μονοδένδρι για εντυπωσιακή θέα από ψηλά.
+
 - **Φωτογραφία & Παρατήρηση Φύσης:** Εξερεύνηση της πλούσιας χλωρίδας και της σπάνιας ορνιθοπανίδας του γεωπάρκου.
 
 <div style="position: relative; max-width: 100%; height: 280px; border-radius: 16px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.15); margin: 30px 0; background: url('https://agni-ionio.github.io/heritage-promotion/assets/images/vikos.jpg') center/cover no-repeat;">
