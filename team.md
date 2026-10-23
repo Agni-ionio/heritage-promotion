@@ -32,4 +32,4 @@ permalink: /team/
 
 Η ανάπτυξη του έργου αποτέλεσε μια ευκαιρία εξοικείωσης με τεχνολογίες και εργαλεία όπως το Jekyll, το GitHub, τα Wikidata, η Wikipedia και η επαυξημένη πραγματικότητα (AR).
 
-[Στόχοι & μαθησιακή εμπειρία](/heritage-promotion/2026/10/23/my-goals.html)
+[Στόχοι & μαθησιακή εμπειρία](/heritage-promotion/my-goals/)
