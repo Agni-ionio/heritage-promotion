@@ -22,8 +22,11 @@ load_leaflet: 1
 </div>
 
 - **Πεζοπορία & Ορειβασία:** Σηματοδοτημένα μονοπάτια που διασχίζουν την κοιλάδα και οδηγούν στις γύρω κορυφές και στα ορεινά καταφύγια.
+
 - **Ορεινή Ποδηλασία (Mountain Biking):** Διαδρομές σε δασικούς δρόμους για λάτρεις της ποδηλασίας βουνού.
+
 - **Παρατήρηση Άγριας Φύσης (Wildlife Watching):** Καταφύγιο για σπάνια είδη όπως η καφέ αρκούδα, ο λύκος και σπάνια αρπακτικά πουλιά.
+
 - **Περιηγήσεις 4x4:** Εξερεύνηση των δασικών διαδρομών με κατάλληλα οχήματα εκτός δρόμου.
 
 <div style="position: relative; max-width: 100%; height: 280px; border-radius: 16px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.15); margin: 30px 0; background: url('https://agni-ionio.github.io/heritage-promotion/assets/images/valia_kalda.jpg') center/cover no-repeat;">
