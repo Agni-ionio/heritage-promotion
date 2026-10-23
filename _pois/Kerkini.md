@@ -10,7 +10,10 @@ load_leaflet: 1
 ## Λίμνη Κερκίνη
 *(Περιοχή: Σέρρες, Μακεδονία)*
 
+<p align="justify">
+  
 Η **Λίμνη Κερκίνη** αποτελεί έναν από τους σημαντικότερους υδροβιότοπους της Ευρώπης και έναν μοναδικό προορισμό οικοτουρισμού. Περιβάλλεται από τα βουνά Κερκίνη (Μπέλες) και Κρούσσια, ενώ φιλοξενεί σπάνια είδη πουλιών και τον μεγαλύτερο πληθυσμό νεροβούβαλων στην Ελλάδα.
+</p>
 
 <div style="margin-top: 25px;">
   <span style="font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; color: #2d6a4f; background-color: #e8f5e9; padding: 3px 10px; border-radius: 4px;">
@@ -22,7 +25,9 @@ load_leaflet: 1
 </div>
 
 - **Παρατήρηση Πουλιών (Birdwatching):** Περιήγηση με βάρκα (πλάβα) για να δείτε από κοντά αργυροπελεκάνους και κορμοράνους.
+  
 - **Ιππασία & Ποδηλασία:** Διαδρομές στα αναχώματα της λίμνης με θέα τα κοπάδια των νεροβούβαλων.
+  
 - **Βαρκάδα με Πλάβα:** Παραδοσιακή περιήγηση στα ήρεμα νερά και στις εκβολές του Στρυμόνα.
 
 <div style="position: relative; max-width: 100%; height: 280px; border-radius: 16px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.15); margin: 30px 0; background: url('https://agni-ionio.github.io/heritage-promotion/assets/images/kerkini.jpg') center/cover no-repeat;">
