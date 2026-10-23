@@ -22,7 +22,9 @@ load_leaflet: 1
 </div>
 
 - **Rafting:** Εύκολη και απολαυστική κατάβαση στα σμαραγδένια νερά, ιδανική ακόμα και για αρχάριους.
+
 - **Πεζοπορία στις Όχθες:** Μοναδικές διαδρομές κάτω από αιωνόβια πλατάνια, δίπλα σε πέτρινα τοξωτά γεφύρια (όπως της Κλειδωνιάς).
+
 - **Canoe / Kayak:** Εξερεύνηση των ροών του ποταμού ανάμεσα σε μοναδικά τοπία άγριας φύσης.
 
 <div style="position: relative; max-width: 100%; height: 280px; border-radius: 16px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.15); margin: 30px 0; background: url('https://agni-ionio.github.io/heritage-promotion/assets/images/voidomatis.jpg') center/cover no-repeat;">
