@@ -10,7 +10,10 @@ load_leaflet: 1
 ## Φαράγγι & Ποταμός Πάντα Βρέχει
 *(Περιοχή: Ευρυτανία, Στερεά Ελλάδα)*
 
+<p align="justify">
+
 Το **Πάντα Βρέχει** είναι ένα από τα πιο μαγευτικά και κρυμμένα φυσικά αξιοθέατα της Ελλάδας, στα όρη των Αγράφων. Πρόκειται για ένα στενό φαράγγι όπου τα νερά πέφτουν συνεχώς από ψηλά σαν τεχνητή βροχή, δημιουργώντας ένα παραμυθένιο τοπίο με πλούσια βλάστηση και κρυστάλλινες βάθρες.
+</p>
 
 <div style="margin-top: 25px;">
   <span style="font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; color: #2d6a4f; background-color: #e8f5e9; padding: 3px 10px; border-radius: 4px;">
@@ -22,7 +25,9 @@ load_leaflet: 1
 </div>
 
 - **Ποταμοδιάσχιση (River Trekking):** Πεζοπορία μέσα στην κοίτη του ποταμού Κρικελλιώτη και του φαραγγιού, περνώντας κάτω από τους καταρράκτες.
+
 - **Ορειβατική Πεζοπορία:** Διαδρομές στα ορεινά μονοπάτια των Αγράφων με πανοραμική θέα στο άγριο τοπίο.
+
 - **Εξερεύνηση Φύσης:** Φωτογραφική περιήγηση στους εντυπωσιακούς σχηματισμούς των βράχων και της βλάστησης.
 
 <div style="position: relative; max-width: 100%; height: 280px; border-radius: 16px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.15); margin: 30px 0; background: url('https://agni-ionio.github.io/heritage-promotion/assets/images/pantavrechei.jpg') center center/cover no-repeat;">
