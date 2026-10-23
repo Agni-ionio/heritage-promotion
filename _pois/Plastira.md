@@ -22,7 +22,9 @@ load_leaflet: 1
 </div>
 
 - **Υδροποδήλατο & Καγιάκ:** Περιήγηση στα ήρεμα νερά της λίμνης με θέα το καταπράσινο τοπίο.
+  
 - **Ποδηλασία Λίμνης:** Διαδρομές με ποδήλατο κατά μήκος των όχθων και ανάμεσα στα παραλίμνια χωριά.
+  
 - **Πεζοπορία & Θέα:** Επίσκεψη στο Παρατηρητήριο της Λίμνης για πανοραμική θέα του φράγματος και των Αγράφων.
 
 <div style="position: relative; max-width: 100%; height: 280px; border-radius: 16px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.15); margin: 30px 0; background: url('https://agni-ionio.github.io/heritage-promotion/assets/images/plastira.jpg') center/cover no-repeat;">
