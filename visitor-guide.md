@@ -50,7 +50,7 @@ permalink: /visitor-guide/
   </tr>
 
   <tr>
-    <td style="padding:10px;">🌊 Ποταμός &amp; Καταρράκτες Νέδας</td>
+    <td style="padding:10px;">🌊 Ποταμός Νέδας</td>
     <td style="padding:10px;">Άνοιξη - Αρχές Φθινοπώρου</td>
     <td style="padding:10px;">Κατάλληλη περίοδος για πεζοπορία, καταρράκτες και φυσικές πισίνες.</td>
   </tr>
