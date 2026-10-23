@@ -47,7 +47,7 @@ permalink: /ar-experience/
 
 ### Εναλλακτικά
 
-<div style="line-height:1.1;">
+<div style="line-height:1.3;">
 Ανοίξτε απευθείας την εφαρμογή:<br>
 https://pql20.zappar-us.io/4630123103355388231/
 </div>
