@@ -9,8 +9,10 @@ load_leaflet: 1
 
 ## Ποταμός Αχέροντας
 *(Περιοχή: Πρέβεζα / Θεσπρωτία, Ήπειρος)*
+<p align="justify">
 
 Ο **Αχέροντας** είναι ένας από τους πιο θρυλικούς και γραφικούς ποταμούς της Ελλάδας, γνωστός από την αρχαιότητα ως η πύλη του Κάτω Κόσμου. Σήμερα, τα κρυστάλλινα, τιρκουάζ νερά του, τα επιβλητικά φαράγγια και η πλούσια παραποτάμια βλάστηση τον καθιστούν κορυφαίο προορισμό εναλλακτικού τουρισμού.
+</p>
 
 <div style="margin-top: 25px;">
   <span style="font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; color: #2d6a4f; background-color: #e8f5e9; padding: 3px 10px; border-radius: 4px;">
@@ -21,9 +23,14 @@ load_leaflet: 1
   </h3>
 </div>
 
+<p align="justify">
+  
 - **River Trekking:** Διάσχιση του ποταμού περπατώντας στα δροσερά, ρηχά νερά ανάμεσα σε επιβλητικά κάθετα βράχια.
+  <br>
 - **Καγιάκ & Rafting:** Εξερεύνηση των ήρεμων τμημάτων του ποταμού με βάρκα ή καγιάκ.
+  <br>
 - **Πεζοπορία στις Πηγές:** Διαδρομές στα μονοπάτια του φαραγγιού με θέα τις εκβολές και τις πηγές του ποταμού.
+</p>
 
 <div style="position: relative; max-width: 100%; height: 280px; border-radius: 16px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.15); margin: 30px 0; background: url('https://agni-ionio.github.io/heritage-promotion/assets/images/acheron.jpg') center/cover no-repeat;">
   
