@@ -28,8 +28,8 @@ permalink: /team/
 ---
 
 
-## Πίσω από το Beyond the Blue
+### Πίσω από το Beyond the Blue
 
 Η ανάπτυξη του έργου αποτέλεσε μια ευκαιρία εξοικείωσης με τεχνολογίες και εργαλεία όπως το Jekyll, το GitHub, τα Wikidata, η Wikipedia και η επαυξημένη πραγματικότητα (AR).
 
-📝 [Στόχοι και μαθησιακή εμπειρία](/heritage-promotion/2026/10/23/my-goals.html)
+[Στόχοι και μαθησιακή εμπειρία](/heritage-promotion/2026/10/23/my-goals.html)
