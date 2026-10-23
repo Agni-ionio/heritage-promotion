@@ -53,6 +53,8 @@ load_leaflet: 1
 </div>
 
 <div style="
+  width:100%;
+  box-sizing:border-box;
   margin-top:15px;
   padding:12px 16px;
   background:#e8f5e9;
@@ -60,5 +62,5 @@ load_leaflet: 1
   border-radius:8px;
   color:#1b4332;
 ">
-  🥽 Για μια πιο διαδραστική εμπειρία, εξερευνήστε τον προορισμό μέσα από την ενότητα <strong>AR Experience</strong>. 
+  🥽 Εξερευνήστε τον προορισμό με την εμπειρία επαυξημένης πραγματικότητας (AR) μέσω της ενότητας AR Experience.
 </div>
