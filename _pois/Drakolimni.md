@@ -16,15 +16,9 @@ load_leaflet: 1
   <span style="font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; color: #2d6a4f; background-color: #e8f5e9; padding: 3px 10px; border-radius: 4px;">
     Outdoor Guide
   </span>
-  <h3 style="margin: 6px 0 15px 0; color: #1b4332; font-size: 1.3rem;">
+  <h3> style="margin: 6px 0 15px 0; color: #1b4332; font-size: 1.3rem;">
     Προτεινόμενες Δραστηριότητες
   </h3>
-
-  - **Αλπική Πεζοπορία & Ορειβασία:** Η κλασική πεζοπορική διαδρομή ξεκινά από το χωριό Μικρό Πάπιγκο, περνά από το Ορειβατικό Καταφύγιο Αστράκας και καταλήγει στη λίμνη.
-    
-  - **Παρατήρηση Αλπικού Τρίτωνα:** Στα κρυστάλλινα νερά της λίμνης ζει ο προστατευόμενος Αλπικός Τρίτωνας (<em>Ichthyosaura alpestris</em>), ένας μικρός αμφίβιος «δράκος».
-  
-  - **Φωτογραφία Τοπίου:** Πανοραμική θέα προς τη χαράδρα του Αώου και τις γύρω κορυφές της Πίνδου.
  
 <div style="position: relative; max-width: 100%; height: 280px; border-radius: 16px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.15); margin: 30px 0; background:url('https://agni-ionio.github.io/heritage-promotion/assets/images/drakolimni.jpg') center/cover no-repeat;">
 
