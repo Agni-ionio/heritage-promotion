@@ -22,8 +22,11 @@ load_leaflet: 1
 </div>
 
 - **Κολύμβηση:** Δροσιστείτε στα καθαρά νερά της μεγαλύτερης φυσικής λίμνης της Ελλάδας.
+
 - **Περίπατος στη Λίμνη:** Απολαύστε ήπιες διαδρομές κατά μήκος της παραλίμνιας ζώνης.
+
 - **Φωτογραφία Φύσης:** Καταγράψτε τα τοπία, τα νερά και τα χρώματα του φυσικού περιβάλλοντος.
+
 - **Παρατήρηση Πουλιών:** Ανακαλύψτε είδη της τοπικής ορνιθοπανίδας στους υγροτόπους της περιοχής.
 
 <div style="position: relative; max-width: 100%; height: 320px; border-radius: 16px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.15); margin: 30px 0; background: url('https://agni-ionio.github.io/heritage-promotion/assets/images/trichonida.png') center/cover no-repeat;">
