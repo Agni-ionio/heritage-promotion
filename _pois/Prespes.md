@@ -22,7 +22,9 @@ load_leaflet: 1
 </div>
 
 - **Περίπατος στον Άγιο Αχίλλειο:** Διάσχιση της πλωτής γέφυρας προς το γραφικό νησάκι και επίσκεψη στη βασιλική του 10ου αιώνα.
+  
 - **Βαρκάδα στα Ασκηταριά:** Περιήγηση στη Μεγάλη Πρέσπα με παραδοσιακό σκάφος για την επίσκεψη στα μεταβυζαντινά ασκηταριά.
+  
 - **Εξερεύνηση στο Ψαράδες:** Πεζοπορία και δοκιμή τοπικών παραδοσιακών γεύσεων στο διατηρητέο παραλίμνιο χωριό.
 
 <div style="position: relative; max-width: 100%; height: 280px; border-radius: 16px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.15); margin: 30px 0; background: url('https://agni-ionio.github.io/heritage-promotion/assets/images/prespa.jpg') center/cover no-repeat;">
