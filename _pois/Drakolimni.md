@@ -46,5 +46,8 @@ load_leaflet: 1
       </a>
     </div>
 
+    <div class="feature-badge">
+      🥽 Διαθέσιμη εμπειρία επαυξημένης πραγματικότητας (AR)
+    </div>
   </div>
 </div>
