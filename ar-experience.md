@@ -34,7 +34,7 @@ permalink: /ar-experience/
 ">
 
   <div>
-   <img src="/heritage-promotion/ar/drakolimni/qrdrakolimni1.png"
+   <img src="/heritage-promotion/ar/drakolimni/qrdrakolimni.png"
      alt="QR Code Δρακολίμνης"
      width="220">
   </div>
@@ -42,10 +42,10 @@ permalink: /ar-experience/
   <div>
     <p><strong>🎯Στρέψτε την κάμερα του κινητού σας στην παρακάτω εικόνα</strong></p>
 <br>
-    <img src="/heritage-promotion/assets/images/drakolimni.jpg"
+    <img src="/heritage-promotion/assets/images/drakolimni1.jpg"
          alt="Εικόνα ενεργοποίησης AR"
          style="max-width:300px; width:100%; height:auto; border-radius:10px;">
-<br><br>
+<br><br><br>
     <div style="line-height:1.3;">
         Απευθείας σύνδεσμος:<br>
         https://pql20.zappar-us.io/4630123103355388231/ 
