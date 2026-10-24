@@ -60,8 +60,16 @@ load_leaflet: 1
   border-radius:8px;
   color:#1b4332;
 ">
-🥽 Ζήστε την εμπειρία επαυξημένης πραγματικότητας (AR) για τη Λίμνη Κερκίνη στην ενότητα
-<a href="/heritage-promotion/ar-experience/"><strong>AR Experience</strong></a>.
+  🥽 Ζήστε την εμπειρία επαυξημένης πραγματικότητας (AR) για τη Λίμνη Κερκίνη στην ενότητα
+  <a href="/heritage-promotion/ar-experience/"><strong>AR Experience</strong></a>.
+
+  <p style="margin-top:12px;">
+    <strong>🎯 Χρησιμοποιήστε την παρακάτω εικόνα για να ενεργοποιήσετε την εμπειρία AR</strong>
+  </p>
+
+  <img
+    src="../assets/images/kerkini.jpg"
+    alt="Εικόνα ενεργοποίησης AR"
+    style="max-width:300px; width:100%; height:auto; border-radius:10px; margin-top:10px;"
+  >
 </div>
-
-
