@@ -21,7 +21,7 @@ permalink: /ar-experience/
 <hr style="margin:50px 0;">
 
 ## Διαθέσιμες AR Εμπειρίες
-
+<br>
 ### 🥽 Δρακόλιμνη Τύμφης
 
 Ανακαλύψτε τη Δρακόλιμνη Τύμφης μέσα από μια εμπειρία επαυξημένης πραγματικότητας και εξερευνήστε έναν από τους πιο εντυπωσιακούς αλπικούς προορισμούς της Ελλάδας.
@@ -46,11 +46,12 @@ permalink: /ar-experience/
          alt="Εικόνα ενεργοποίησης AR"
          style="max-width:380px; width:100%; height:auto; border-radius:10px;">
 <br><br><br>
-    <div style="line-height:1.3;">
-        Εναλλακτικός σύνδεσμος AR:<br>
-        https://pql20.zappar-us.io/4630123103355388231/ 
-    </div>       
-  </div>
+   <a href="https://pql20.zappar-us.io/4630123103355388231/"
+   target="_blank"
+   rel="noopener noreferrer">
+   Εναλλακτικός σύνδεσμος AR
+</a>
+</div>
 </div>
 
 <hr style="margin:50px 0;">
