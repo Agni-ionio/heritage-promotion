@@ -36,7 +36,7 @@ permalink: /ar-experience/
   <div>
    <img src="/heritage-promotion/ar/drakolimni/qrdrakolimni.png"
      alt="QR Code Δρακολίμνης"
-     width="250">
+     width="180">
   </div>
 
   <div>
@@ -44,7 +44,7 @@ permalink: /ar-experience/
 
     <img src="/heritage-promotion/assets/images/drakolimni1.jpg"
          alt="Εικόνα ενεργοποίησης AR"
-         style="max-width:300px; width:100%; height:auto; border-radius:10px;">
+         style="max-width:220px; width:100%; height:auto; border-radius:10px;">
 
     <div style="line-height:1.3;">
         Απευθείας σύνδεσμος:<br>
