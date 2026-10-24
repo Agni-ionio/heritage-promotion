@@ -44,10 +44,10 @@ permalink: /ar-experience/
 <br>
     <img src="/heritage-promotion/assets/images/drakolimni1.jpg"
          alt="Εικόνα ενεργοποίησης AR"
-         style="max-width:300px; width:100%; height:auto; border-radius:10px;">
+         style="max-width:380px; width:100%; height:auto; border-radius:10px;">
 <br><br><br>
     <div style="line-height:1.3;">
-        Απευθείας σύνδεσμος:<br>
+        Εναλλακτικός σύνδεσμος AR:<br>
         https://pql20.zappar-us.io/4630123103355388231/ 
     </div>       
   </div>
@@ -80,7 +80,7 @@ permalink: /ar-experience/
          style="max-width:300px; width:100%; height:auto; border-radius:10px;">
 <br><br><br>
      <div style="line-height:1.3;">
-         Απευθείας σύνδεσμος:<br>
+         Εναλλακτικός σύνδεσμος AR:<br>
          https://pql20.zappar-us.io/2205994028192817697/
     </div>
   </div>
