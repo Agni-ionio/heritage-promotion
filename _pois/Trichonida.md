@@ -33,15 +33,15 @@ load_leaflet: 1
 
 <div style="position: relative; max-width: 100%; height: 320px; border-radius: 16px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.15); margin: 30px 0; background: url('https://agni-ionio.github.io/heritage-promotion/assets/images/trichonida.png') center/cover no-repeat;">
 
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(180deg, rgba(0,0,0,0.1) 0%, rgba(15, 30, 20, 0.85) 100%); display: flex; flex-direction: column; justify-content: space-between; padding: 18px; box-sizing: border-box;">
+ <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(180deg, rgba(0,0,0,0) 50%, rgba(15, 30, 20, 0.6) 100%); display: flex; flex-direction: column; padding: 18px; box-sizing: border-box;">
 
-    <div style="text-align: left; margin-top: 25px;">
+    <div style="position: absolute; top: 8px; left: 8px;">
       <span style="background: rgba(255, 255, 255, 0.25); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); color: #ffffff; font-size: 0.65rem; font-weight: 600; padding: 4px 10px; border-radius: 12px; text-transform: uppercase; letter-spacing: 1px; border: 1px solid rgba(255,255,255,0.3);">
         Aerial View
       </span>
     </div>
 
-    <div style="text-align: center;">
+     <div style="text-align: center; margin-top: auto;">
       <h3 style="color: #ffffff; margin: 0 0 10px 0; font-size: 1.2rem; font-weight: 600; text-shadow: 0 2px 4px rgba(0,0,0,0.8);">
         Εξερευνήστε τη Λίμνη Τριχωνίδα
       </h3>
