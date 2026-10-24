@@ -29,7 +29,7 @@ permalink: /ar-experience/
 <div style="
   display:flex;
   flex-wrap:wrap;
-  gap:30px;
+  gap:15px;
   align-items:flex-start;
 ">
 
@@ -40,18 +40,17 @@ permalink: /ar-experience/
   </div>
 
   <div>
-    <p><strong>🎯Δείξτε στην κάμερα του κινητού σας την παρακάτω εικόνα</strong></p>
+    <p><strong>🎯Στρέψτε την κάμερα του κινητού σας στην παρακάτω εικόνα</strong></p>
 
     <img src="/heritage-promotion/assets/images/drakolimni1.jpg"
          alt="Εικόνα ενεργοποίησης AR"
          style="max-width:300px; width:100%; height:auto; border-radius:10px;">
+
+    <div style="line-height:1.3;">
+        Απευθείας σύνδεσμος:<br>
+        https://pql20.zappar-us.io/4630123103355388231/ 
+    </div>       
   </div>
-
-</div>
-
-<div style="line-height:1.3;">
-Απευθείας σύνδεσμος:<br>
-https://pql20.zappar-us.io/4630123103355388231/ 
 </div>
 
 <hr style="margin:50px 0;">
@@ -63,7 +62,7 @@ https://pql20.zappar-us.io/4630123103355388231/
 <div style="
   display:flex;
   flex-wrap:wrap;
-  gap:30px;
+  gap:15px;
   align-items:flex-start;
 ">
 
@@ -74,15 +73,15 @@ https://pql20.zappar-us.io/4630123103355388231/
   </div>
 
   <div>
-    <p><strong>🎯Δείξτε στην κάμερα του κινητού σας την παρακάτω εικόνα</strong></p>
+    <p><strong>🎯Στρέψτε την κάμερα του κινητού σας στην παρακάτω εικόνα</strong></p>
 
     <img src="/heritage-promotion/assets/images/kerkini.jpg"
          alt="Εικόνα ενεργοποίησης AR"
          style="max-width:300px; width:100%; height:auto; border-radius:10px;">
-  </div>
-</div>
 
-<div style="line-height:1.3;">
-Απευθείας σύνδεσμος:<br>
-https://pql20.zappar-us.io/2205994028192817697/
+     <div style="line-height:1.3;">
+         Απευθείας σύνδεσμος:<br>
+         https://pql20.zappar-us.io/2205994028192817697/
+    </div>
+  </div>
 </div>
