@@ -2,11 +2,11 @@
 layout: home
 ---
 
-<div style="position:relative; height:500px; border-radius:20px; overflow:hidden; margin-bottom:40px; background:url('https://agni-ionio.github.io/heritage-promotion/assets/images/panorama.jpg') center center/cover no-repeat;">
+<div style="position:relative; height:650px; border-radius:20px; overflow:hidden; margin-bottom:40px; background:url('https://agni-ionio.github.io/heritage-promotion/assets/images/panorama.jpg') center center/cover no-repeat;">
 
-<div style="position:absolute; inset:0; background:rgba(0,0,0,0.35); text-align:center;">
+<div style="position:absolute; inset:0; background:rgba(0,0,0,0.20); text-align:center;">
 
-  <h1 style="color:white; font-size:3rem; margin-top:60px;">
+  <h1 style="color:white; font-size:3rem; margin-top:90px;">
     Beyond the Blue
   </h1>
 
@@ -17,7 +17,7 @@ layout: home
   </p>
 
   <a href="/heritage-promotion/pois/"
-     style="display:inline-block; margin-top:20px; background:#2d6a4f; color:white; padding:12px 24px; border-radius:30px; text-decoration:none; font-weight:bold;">
+     style="display:inline-block; margin-top:20px; background:#1b7f5a; color:white; padding:12px 24px; border-radius:30px; text-decoration:none; font-weight:bold;">
     🗺️ Εξερεύνηση POIs
   </a>
 
