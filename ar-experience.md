@@ -79,9 +79,10 @@ permalink: /ar-experience/
          alt="Εικόνα ενεργοποίησης AR"
          style="max-width:300px; width:100%; height:auto; border-radius:10px;">
 <br><br><br>
-     <div style="line-height:1.3;">
-         Εναλλακτικός σύνδεσμος AR:<br>
-         https://pql20.zappar-us.io/2205994028192817697/
-    </div>
+<a href="https://pql20.zappar-us.io/2205994028192817697/"
+   target="_blank"
+   rel="noopener noreferrer">
+   Εναλλακτικός σύνδεσμος AR
+</a>
   </div>
 </div>
