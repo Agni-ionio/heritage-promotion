@@ -26,9 +26,28 @@ permalink: /ar-experience/
 
 Ανακαλύψτε τη Δρακόλιμνη Τύμφης μέσα από μια εμπειρία επαυξημένης πραγματικότητας και εξερευνήστε έναν από τους πιο εντυπωσιακούς αλπικούς προορισμούς της Ελλάδας.
 
-<img src="/heritage-promotion/ar/drakolimni/qrdrakolimni.png"
+<div style="
+  display:flex;
+  flex-wrap:wrap;
+  gap:30px;
+  align-items:flex-start;
+">
+
+  <div>
+   <img src="/heritage-promotion/ar/drakolimni/qrdrakolimni.png"
      alt="QR Code Δρακολίμνης"
      width="250">
+  </div>
+
+  <div>
+    <p><strong>🎯Δείξτε στην κάμερα του κινητού σας την παρακάτω εικόνα</strong></p>
+
+    <img src="/heritage-promotion/assets/images/drakolimni1.jpg"
+         alt="Εικόνα ενεργοποίησης AR"
+         style="max-width:300px; width:100%; height:auto; border-radius:10px;">
+  </div>
+
+</div>
 
 <div style="line-height:1.3;">
 Απευθείας σύνδεσμος:<br>
@@ -41,9 +60,27 @@ https://pql20.zappar-us.io/4630123103355388231/
 
 Ανακαλύψτε τη Λίμνη Κερκίνη μέσα από μια εμπειρία επαυξημένης πραγματικότητας και γνωρίστε έναν από τους σημαντικότερους υδροβιότοπους της Ευρώπης.
 
-<img src="/heritage-promotion/ar/kerkini/qrkerkini.png"
-     alt="QR Code Κερκίνης"
-     width="250">
+<div style="
+  display:flex;
+  flex-wrap:wrap;
+  gap:30px;
+  align-items:flex-start;
+">
+
+  <div>
+    <img src="/heritage-promotion/ar/kerkini/qrkerkini.png"
+         alt="QR Code Κερκίνης"
+         width="250">
+  </div>
+
+  <div>
+    <p><strong>🎯Δείξτε στην κάμερα του κινητού σας την παρακάτω εικόνα</strong></p>
+
+    <img src="/heritage-promotion/assets/images/kerkini.jpg"
+         alt="Εικόνα ενεργοποίησης AR"
+         style="max-width:300px; width:100%; height:auto; border-radius:10px;">
+  </div>
+</div>
 
 <div style="line-height:1.3;">
 Απευθείας σύνδεσμος:<br>
