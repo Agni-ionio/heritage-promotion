@@ -14,17 +14,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Beyond the Blue | Μια Διαφορετική Ελλάδα
-# email: your-email@example.com
+# email: inf.dig2504@ionio.gr, inf.2509@ionio.gr
 description: >- # this means to ignore newlines until "baseurl:"
   Ο ιστοχώρος αυτός αναπτύχτηκε από τους Αγνή Εξάρχου & Αλέξανδρο Μπουντούρη,
   στα πλαίσια εργασίας του μαθήματος "Εργαλεία Προβολής Τουριστικού & Πολιτιστικού Προϊόντος"
   του ΠΜΣ "Ψηφιακές Εφαρμογές & Καινοτομία" του Ιονίου Πανεπιστημίου.
 baseurl: "/heritage-promotion" # the subpath of your site, e.g. /blog
-url: "https://agni-ionio.github.io"
+url: "https://agni-ionio.github.io/heritage-promotion/"
 author:
 name: "Αγνή Εξάρχου & Αλέξανδρος Μπουντούρης"
 # twitter_username: jekyllrb
-github_username:  Agni-ionio
+github_username:  Agni-ionio, aboudouris
 # Build settings
 markdown: kramdown
 theme: minima
