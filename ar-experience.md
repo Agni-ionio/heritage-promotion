@@ -39,6 +39,13 @@ permalink: /ar-experience/
     <img src="/heritage-promotion/ar/acheron/acheronqr.png"
          alt="QR Code Αχέροντα"
          width="220">
+    <br><br><br>
+    
+    <a href="https://pql20.zappar-us.io/4904764058385987457/"
+   target="_blank"
+   rel="noopener noreferrer">
+   Εναλλακτικός σύνδεσμος AR
+</a>
   </div>
 
    <div>
@@ -47,13 +54,6 @@ permalink: /ar-experience/
         <img src="/heritage-promotion/assets/images/acheron2.jpg"
          alt="Εικόνα ενεργοποίησης AR"
          style="max-width:300px; width:100%; height:auto; border-radius:10px;">
-<br><br><br>
-
-<a href="https://pql20.zappar-us.io/4904764058385987457/"
-   target="_blank"
-   rel="noopener noreferrer">
-   Εναλλακτικός σύνδεσμος AR
-</a>
   </div>
 </div>
 
