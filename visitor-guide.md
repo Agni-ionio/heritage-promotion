@@ -38,7 +38,7 @@ permalink: /visitor-guide/
   </tr>
 
   <tr>
-    <td style="padding:10px;">🦆 Λίμνη Κερκίνη</td>
+    <td style="padding:10px;">🦅 Λίμνη Κερκίνη</td>
     <td style="padding:10px;">Φθινόπωρο - Άνοιξη</td>
     <td style="padding:10px;"> Κορυφαία περίοδος για birdwatching και παρατήρηση της άγριας ζωής.</td>
   </tr>
