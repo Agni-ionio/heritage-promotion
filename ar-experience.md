@@ -71,7 +71,7 @@ permalink: /ar-experience/
 ">
 
   <div>
-    <img src="/heritage-promotion/ar/kerkini/qrkerkini.png"
+    <img src="/heritage-promotion/ar/kerkini/kerkiniqr.png"
          alt="QR Code Κερκίνης"
          width="220">
   </div>
@@ -106,7 +106,7 @@ permalink: /ar-experience/
 ">
 
   <div>
-   <img src="/heritage-promotion/ar/drakolimni/qrdrakolimni.png"
+   <img src="/heritage-promotion/ar/drakolimni/drakolimniqr.png"
      alt="QR Code Δρακολίμνης"
      width="220">
   </div>
