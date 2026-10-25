@@ -42,8 +42,8 @@ permalink: /ar-experience/
 
    <div>
     <p><strong>🎯Στρέψτε την κάμερα του κινητού σας προς την φωτογραφία</strong></p>
-<br>
-    <img src="/heritage-promotion/assets/images/acheron/acheron2.jpg"
+ <br>
+        <img src="/heritage-promotion/assets/images/acheron2.jpg"
          alt="Εικόνα ενεργοποίησης AR"
          style="max-width:300px; width:100%; height:auto; border-radius:10px;">
 <br><br><br>
