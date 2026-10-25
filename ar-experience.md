@@ -20,7 +20,7 @@ permalink: /ar-experience/
 
 <hr style="margin:50px 0;">
 
-## Διαθέσιμες AR Εμπειρίες 
+## Διαθέσιμες Εμπειρίες AR
 <br>
 
 ### 🥽 Λίμνη Κερκίνη
