@@ -15,7 +15,7 @@ layout: home
   transition:0.3s;
   box-shadow:0 2px 8px rgba(0,0,0,0.10);
 }
-
+ 
 .hero-btn:hover{
   transform:translateY(-4px);
   box-shadow:0 6px 16px rgba(0,0,0,0.15);
