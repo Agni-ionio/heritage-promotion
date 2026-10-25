@@ -2,6 +2,7 @@
 layout: home
 ---
 
+<style>
 .hero-btn{
   display:inline-block;
   margin-top:20px;
@@ -17,6 +18,7 @@ layout: home
 .hero-btn:hover{
   transform:translateY(-4px);
 }
+</style>
 
 <div style="position:relative; height:500px; border-radius:20px; overflow:hidden; margin-bottom:40px; background:url('https://agni-ionio.github.io/heritage-promotion/assets/images/panorama.jpg') center center/cover no-repeat;">
 
