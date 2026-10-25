@@ -34,10 +34,9 @@ layout: home
   Μια Διαφορετική Ελλάδα
   </p>
 
-  <a href="/heritage-promotion/pois/"
-     style="display:inline-block; margin-top:20px; background:#1b7f5a; color:white; padding:12px 24px; border-radius:30px; text-decoration:none; font-weight:bold;">
+ <a href="/heritage-promotion/pois/" class="hero-btn">
     🗺️ Εξερεύνηση Προορισμών
-  </a>
+ </a>
 
 
 </div>
