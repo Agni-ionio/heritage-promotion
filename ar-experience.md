@@ -31,21 +31,20 @@ permalink: /ar-experience/
 <div style="
   display:flex;
   flex-wrap:wrap;
-  gap:15px;
-  align-items:flex-start;
-">
+  gap:10px;
+  align-items:flex-start;">
 
   <div>
     <img src="/heritage-promotion/ar/acheron/acheronqr.png"
          alt="QR Code Αχέροντα"
          width="220">
-    <a href="https://pql20.zappar-us.io/4904764058385987457/"
+  <a href="https://pql20.zappar-us.io/4904764058385987457/"
    target="_blank"
    rel="noopener noreferrer">
    Εναλλακτικός σύνδεσμος AR
-</a>
+  </a>
   </div>
- <br>
+ 
  <div>
  <p><strong>🎯Στρέψτε την κάμερα του κινητού σας προς την φωτογραφία</strong></p>
  <br>
@@ -64,7 +63,7 @@ permalink: /ar-experience/
 <div style="
   display:flex;
   flex-wrap:wrap;
-  gap:15px;
+  gap:10px;
   align-items:flex-start;
 ">
 
@@ -82,11 +81,11 @@ permalink: /ar-experience/
          style="max-width:300px; width:100%; height:auto; border-radius:10px;">
 <br><br><br>
     
-<a href="https://pql20.zappar-us.io/2205994028192817697/"
-   target="_blank"
-   rel="noopener noreferrer">
-   Εναλλακτικός σύνδεσμος AR
-</a>
+   <a href="https://pql20.zappar-us.io/2205994028192817697/"
+                target="_blank"
+             rel="noopener noreferrer">
+           Εναλλακτικός σύνδεσμος AR
+     </a>
   </div>
 </div>
 
