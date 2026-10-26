@@ -51,3 +51,15 @@ load_leaflet: 1
 
   </div>
 </div>
+
+<div style="
+  margin-top:15px;
+  padding:12px 16px;
+  background:#e8f5e9;
+  border-left:4px solid #2d6a4f;
+  border-radius:8px;
+  color:#1b4332;
+">
+🥽 Ζήστε την εμπειρία επαυξημένης πραγματικότητας (AR) για τη Λίμνη Κερκίνη στην ενότητα
+<a href="/heritage-promotion/ar-experience/"><strong>AR Experience</strong></a>.
+</div>
