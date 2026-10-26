@@ -39,15 +39,15 @@ permalink: /ar-experience/
     <img src="/heritage-promotion/ar/acheron/acheronqr.png"
          alt="QR Code Αχέροντα"
          width="220">
-    <br><br><br>
-    
+       
     <a href="https://pql20.zappar-us.io/4904764058385987457/"
    target="_blank"
    rel="noopener noreferrer">
    Εναλλακτικός σύνδεσμος AR
 </a>
   </div>
-
+ <br><br><br>
+ 
    <div>
     <p><strong>🎯Στρέψτε την κάμερα του κινητού σας προς την φωτογραφία</strong></p>
  <br>
