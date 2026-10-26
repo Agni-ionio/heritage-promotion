@@ -18,7 +18,7 @@ layout: default
 
   <a href="/heritage-promotion/pois/"
      style="display:inline-block; margin-top:20px; background:#1b7f5a; color:white; padding:12px 24px; border-radius:30px; text-decoration:none; font-weight:bold;">
-    🗺️ Εξερεύνηση Προορισμών
+  ✨Ανακαλύψτε τα Διαμάντια της
   </a>
 
 </div>
