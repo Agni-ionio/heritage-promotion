@@ -32,28 +32,30 @@ permalink: /ar-experience/
   display:flex;
   flex-wrap:wrap;
   gap:15px;
-  align-items:flex-start;">
+  align-items:flex-start;
+">
 
-  <div>
+  <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <img src="/heritage-promotion/ar/acheron/acheronqr.png"
          alt="QR Code Αχέροντα"
-         width="210">
-    
-  <a href="https://pql20.zappar-us.io/4904764058385987457/"
-           target="_blank"
-           rel="noopener noreferrer">
-       Εναλλακτικός σύνδεσμος AR
-      </a>
+         width="220">
+    <a href="https://pql20.zappar-us.io/4904764058385987457/"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="margin-top:10px; display:inline-block;">
+      Εναλλακτικός σύνδεσμος AR
+    </a>
   </div>
- 
- <div>
- <p><strong>🎯Στρέψτε την κάμερα του κινητού σας προς την φωτογραφία</strong></p>
- <br>
-      <img src="/heritage-promotion/assets/images/acheron2.jpg"
-      alt="Εικόνα ενεργοποίησης AR"
-      style="max-width:300px; width:100%; height:auto; border-radius:10px;">
+
+  <div style="display:flex; flex-direction:column; align-items:flex-start;">
+    <p><strong>🎯Στρέψτε την κάμερα του κινητού σας προς την φωτογραφία</strong></p>
+    <img src="/heritage-promotion/assets/images/acheron2.jpg"
+         alt="Εικόνα ενεργοποίησης AR"
+         style="max-width:300px; width:100%; height:auto; border-radius:10px; margin-top:8px;">
   </div>
 </div>
+
+
 
 <hr style="margin:50px 0;">
 
