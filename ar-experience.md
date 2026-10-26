@@ -43,7 +43,7 @@ permalink: /ar-experience/
        target="_blank"
        rel="noopener noreferrer"
        style="margin-top:10px; display:inline-block;">
-      Εναλλακτικός σύνδεσμος AR
+      Εναλλακτικός σύνδεσμος QR
     </a>
   </div>
 
@@ -76,7 +76,7 @@ permalink: /ar-experience/
        target="_blank"
        rel="noopener noreferrer"
        style="margin-top:10px; display:inline-block;">
-      Εναλλακτικός σύνδεσμος AR
+      Εναλλακτικός σύνδεσμος QR
     </a>
   </div>
 
@@ -109,12 +109,12 @@ permalink: /ar-experience/
        target="_blank"
        rel="noopener noreferrer"
        style="margin-top:10px; display:inline-block;">
-      Εναλλακτικός σύνδεσμος AR
+      Εναλλακτικός σύνδεσμος QR
     </a>
   </div>
 
   <div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <p><strong>🎯Στρέψτε την κάμερα του κινητού σας προς την φωτογραφία</strong></p>
+    <p><strong>🎯Στρέψτε την κάμερα του κινητού στη φωτογραφία</strong></p>
     <img src="/heritage-promotion/assets/images/drakolimni1.jpg"
          alt="Εικόνα ενεργοποίησης AR"
          style="max-width:380px; width:100%; height:auto; border-radius:10px; margin-top:8px;">
