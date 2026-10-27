@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Χάρτης Προορισμών"
+title: "Χάρτης"
 permalink: /map/
 ---
 
