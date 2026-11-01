@@ -175,35 +175,7 @@ Beyond the Blue Greece – Ανακαλύψτε μια Ελλάδα πέρα α�
     την επόμενη εκδρομή σας.
   </p>
 
-  <iframe
-    src="{{ '/map.html' | relative_url }}"
-    title="Χάρτης Beyond the Blue Greece"
-    width="100%"
-    height="650"
-    style="
-      border:0;
-      border-radius:16px;
-      box-shadow:0 5px 20px rgba(0,0,0,0.12);
-    "
-    loading="lazy">
-  </iframe>
-
-  <div style="text-align:center; margin-top:25px;">
-
-    <a href="{{ '/map.html' | relative_url }}"
-       style="
-         display:inline-block;
-         background:#2d6a4f;
-         color:white;
-         padding:14px 28px;
-         border-radius:30px;
-         text-decoration:none;
-         font-weight:bold;
-       ">
-      🌍 Εξερεύνηση Διαδραστικού Χάρτη
-    </a>
-
-  </div>
+ 
 
 </div>
 
